@@ -60,11 +60,11 @@ export default {
     carData: {}
   },
   methods: {
-    HomePage() {
+    HomePage() { // good
       let filters = {}
       this.$emit('HomePage', filters)
     },
-    getDataFilters() {
+    getDataFilters() { // good
       let filters = {};
       if(this.selectedModel) {
         // console.log('select model');

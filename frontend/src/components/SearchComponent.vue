@@ -7,15 +7,15 @@
 
 <script>
 
-export default {
+export default { // good
   name: "SearchComponent",
-  data() {
+  data() { // good
     return {
       search_request: null
     }
   },
-  methods: {
-    def_search_request(data) {
+  methods: { // good
+    def_search_request(data) { // good
       this.search_request = data
       this.$emit('def_search_request', {'search_request': this.search_request})
     }

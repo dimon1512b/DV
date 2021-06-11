@@ -33,19 +33,19 @@ export default {
   },
   computed: {
     shownPage() {
-      console.log('count_pages and current_page ПОЛУЧЕНЫ и составляют:', this.count_pages,
+      console.log('count_pages and current_page in PAGINATOR ПОЛУЧЕНЫ и составляют:', this.count_pages,
           this.current_page)
       let array_pages = [];
         for(let i = 1; i <= this.count_pages; i++) {
-          console.log('i =', i)
+          // console.log('i =', i)
           if ((i >= this.current_page - 2) && (i <= this.current_page + 2)) {
-            console.log('TRUE', i,
-                `Это значит что:${this.current_page -2}<=${i}<=${this.current_page + 2}`)
+            // console.log('TRUE', i,
+            //     `Это значит что:${this.current_page -2}<=${i}<=${this.current_page + 2}`)
             array_pages.push(i);
           }
           else {
-            console.log('FALSE', i,
-                `Это значит что:${this.current_page -2}!<=${i}!<=${this.current_page + 2}`)
+            // console.log('FALSE', i,
+            //     `Это значит что:${this.current_page -2}!<=${i}!<=${this.current_page + 2}`)
           }
         }
       console.log('array_pages На основе данных сформирован!!!========', array_pages)
@@ -53,7 +53,7 @@ export default {
     }
   },
   watch() {
-
+    // good
   }
 
 

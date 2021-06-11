@@ -5,7 +5,7 @@
     </div>
     <div class="description_card">
       <div class="full_name_car">
-        <a @click="goToDetail(car)" target="_blank">
+        <a @click="goToDetail" target="_blank">
           <ul class="name_car">
             <li class="brand">-{{car.brand}}-</li>
             <li class="model">-{{car.model}}-</li>
@@ -60,25 +60,25 @@
 
 export default {
   name: "CardComponent",
-  props: {
+  props: { // good
     car: Object,
-    all_data_types: {}
+    // all_data_types: {}
   },
   methods: {
-    pushId(data) {
+    pushId(data) { // good
       this.$emit('pushId', data)
     },
-    goToDetail(data) {
+    goToDetail() { // good
       // let car = this.car
-      console.log('data =========card==========', data)
-      this.$emit('pushCarData', data)
+      console.log('data =========card==========', this.car)
+      // this.$emit('pushCarData', data)
       // window.currentCarData = data
-      this.$router.push({name: 'detail', params: {id: data.id, car: JSON.stringify(data)}})
+      this.$router.push({name: 'detail', params: {id: this.car.id, car: JSON.stringify(this.car)}})
     }
   },
   data() {
     return {
-
+       // good
     }
   }
 }
