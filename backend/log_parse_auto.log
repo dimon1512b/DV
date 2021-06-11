@@ -1,0 +1,1031 @@
+2021-06-07 15:40:10,511 - <module> - Logger was created. Script was started
+2021-06-07 15:40:10,558 - get_ids_and_pages - Send get request to url...
+2021-06-07 15:40:11,506 - get_ids_and_pages - Parse ids on page 1/1...
+2021-06-07 15:40:11,757 - get_data_all_cars - Try to get data all cars
+2021-06-07 15:40:12,257 - get_data_all_cars - Parse data car with id:29862664
+2021-06-07 15:40:12,257 - get_data_all_cars - Try to save data car with id 29862664
+2021-06-07 15:40:12,286 - save_data_to_db - Data car with id 29862664 was successfully save in DB
+2021-06-07 15:40:12,796 - get_data_all_cars - Parse data car with id:29912858
+2021-06-07 15:40:12,796 - get_data_all_cars - Try to save data car with id 29912858
+2021-06-07 15:40:12,812 - save_data_to_db - Data car with id 29912858 was successfully save in DB
+2021-06-07 15:40:13,236 - get_data_all_cars - Parse data car with id:30170286
+2021-06-07 15:40:13,236 - get_data_all_cars - Try to save data car with id 30170286
+2021-06-07 15:40:13,253 - save_data_to_db - Data car with id 30170286 was successfully save in DB
+2021-06-07 15:40:13,598 - get_data_all_cars - Parse data car with id:29414534
+2021-06-07 15:40:13,598 - get_data_all_cars - Try to save data car with id 29414534
+2021-06-07 15:40:13,629 - save_data_to_db - Data car with id 29414534 was successfully save in DB
+2021-06-07 15:40:14,185 - get_data_all_cars - Parse data car with id:29926782
+2021-06-07 15:40:14,185 - get_data_all_cars - Try to save data car with id 29926782
+2021-06-07 15:40:14,185 - save_data_to_db - Data car with id 29926782 was successfully save in DB
+2021-06-07 15:40:14,921 - get_data_all_cars - Parse data car with id:29277986
+2021-06-07 15:40:14,921 - get_data_all_cars - Try to save data car with id 29277986
+2021-06-07 15:40:14,951 - save_data_to_db - Data car with id 29277986 was successfully save in DB
+2021-06-07 15:40:15,728 - get_data_all_cars - Parse data car with id:30169378
+2021-06-07 15:40:15,728 - get_data_all_cars - Try to save data car with id 30169378
+2021-06-07 15:40:15,765 - save_data_to_db - Data car with id 30169378 was successfully save in DB
+2021-06-07 15:40:17,084 - get_data_all_cars - Parse data car with id:29056804
+2021-06-07 15:40:17,084 - get_data_all_cars - Try to save data car with id 29056804
+2021-06-07 15:40:17,121 - save_data_to_db - Data car with id 29056804 was successfully save in DB
+2021-06-07 15:40:17,623 - get_data_all_cars - Parse data car with id:29969841
+2021-06-07 15:40:17,623 - get_data_all_cars - Try to save data car with id 29969841
+2021-06-07 15:40:17,646 - save_data_to_db - Data car with id 29969841 was successfully save in DB
+2021-06-07 15:40:17,929 - get_data_all_cars - Parse data car with id:30131396
+2021-06-07 15:40:17,929 - get_data_all_cars - Try to save data car with id 30131396
+2021-06-07 15:40:17,949 - save_data_to_db - Data car with id 30131396 was successfully save in DB
+2021-06-07 15:40:18,277 - get_data_all_cars - Parse data car with id:30009032
+2021-06-07 15:40:18,277 - get_data_all_cars - Try to save data car with id 30009032
+2021-06-07 15:40:18,277 - save_data_to_db - Data car with id 30009032 was successfully save in DB
+2021-06-07 15:40:18,700 - get_data_all_cars - Parse data car with id:30166817
+2021-06-07 15:40:18,700 - get_data_all_cars - Try to save data car with id 30166817
+2021-06-07 15:40:18,724 - save_data_to_db - Data car with id 30166817 was successfully save in DB
+2021-06-07 15:40:19,444 - get_data_all_cars - Parse data car with id:30157906
+2021-06-07 15:40:19,460 - get_data_all_cars - Try to save data car with id 30157906
+2021-06-07 15:40:19,473 - save_data_to_db - Data car with id 30157906 was successfully save in DB
+2021-06-07 15:40:19,881 - get_data_all_cars - Parse data car with id:28682281
+2021-06-07 15:40:19,881 - get_data_all_cars - Try to save data car with id 28682281
+2021-06-07 15:40:19,902 - save_data_to_db - Data car with id 28682281 was successfully save in DB
+2021-06-07 15:40:20,513 - get_data_all_cars - Parse data car with id:30148958
+2021-06-07 15:40:20,513 - get_data_all_cars - Try to save data car with id 30148958
+2021-06-07 15:40:20,537 - save_data_to_db - Data car with id 30148958 was successfully save in DB
+2021-06-07 15:40:21,699 - get_data_all_cars - Parse data car with id:30110009
+2021-06-07 15:40:21,699 - get_data_all_cars - Try to save data car with id 30110009
+2021-06-07 15:40:21,724 - save_data_to_db - Data car with id 30110009 was successfully save in DB
+2021-06-07 15:40:26,249 - get_data_all_cars - Parse data car with id:29299821
+2021-06-07 15:40:26,249 - get_data_all_cars - Try to save data car with id 29299821
+2021-06-07 15:40:26,274 - save_data_to_db - Data car with id 29299821 was successfully save in DB
+2021-06-07 15:40:26,603 - get_data_all_cars - Parse data car with id:29896218
+2021-06-07 15:40:26,603 - get_data_all_cars - Try to save data car with id 29896218
+2021-06-07 15:40:26,647 - save_data_to_db - Data car with id 29896218 was successfully save in DB
+2021-06-07 15:40:27,258 - get_data_all_cars - Parse data car with id:20838888
+2021-06-07 15:40:27,258 - get_data_all_cars - Try to save data car with id 20838888
+2021-06-07 15:40:27,276 - save_data_to_db - Data car with id 20838888 was successfully save in DB
+2021-06-07 15:40:28,101 - get_data_all_cars - Parse data car with id:30101527
+2021-06-07 15:40:28,101 - get_data_all_cars - Try to save data car with id 30101527
+2021-06-07 15:40:28,139 - save_data_to_db - Data car with id 30101527 was successfully save in DB
+2021-06-07 15:41:15,768 - <module> - Logger was created. Script was started
+2021-06-07 15:41:15,815 - get_ids_and_pages - Send get request to url...
+2021-06-07 15:41:16,065 - get_ids_and_pages - Parse ids on page 1/2...
+2021-06-07 15:41:16,955 - get_ids_and_pages - Parse ids on page 2/2...
+2021-06-07 15:41:19,762 - get_data_all_cars - Try to get data all cars
+2021-06-07 15:41:20,043 - get_data_all_cars - Parse data car with id:29862664
+2021-06-07 15:41:20,043 - get_data_all_cars - Try to save data car with id 29862664
+2021-06-07 15:41:20,043 - save_data_to_db - Car with id 29862664 was successfully update
+2021-06-07 15:41:20,262 - get_data_all_cars - Parse data car with id:29912858
+2021-06-07 15:41:20,262 - get_data_all_cars - Try to save data car with id 29912858
+2021-06-07 15:41:20,262 - save_data_to_db - Car with id 29912858 was successfully update
+2021-06-07 15:41:20,496 - get_data_all_cars - Parse data car with id:30170286
+2021-06-07 15:41:20,496 - get_data_all_cars - Try to save data car with id 30170286
+2021-06-07 15:41:20,496 - save_data_to_db - Car with id 30170286 was successfully update
+2021-06-07 15:41:20,700 - get_data_all_cars - Parse data car with id:29414534
+2021-06-07 15:41:20,700 - get_data_all_cars - Try to save data car with id 29414534
+2021-06-07 15:41:20,700 - save_data_to_db - Car with id 29414534 was successfully update
+2021-06-07 15:41:21,131 - get_data_all_cars - Parse data car with id:29926782
+2021-06-07 15:41:21,131 - get_data_all_cars - Try to save data car with id 29926782
+2021-06-07 15:41:21,131 - save_data_to_db - Car with id 29926782 was successfully update
+2021-06-07 15:41:21,365 - get_data_all_cars - Parse data car with id:29277986
+2021-06-07 15:41:21,381 - get_data_all_cars - Try to save data car with id 29277986
+2021-06-07 15:41:21,381 - save_data_to_db - Car with id 29277986 was successfully update
+2021-06-07 15:41:21,600 - get_data_all_cars - Parse data car with id:30169378
+2021-06-07 15:41:21,600 - get_data_all_cars - Try to save data car with id 30169378
+2021-06-07 15:41:21,600 - save_data_to_db - Car with id 30169378 was successfully update
+2021-06-07 15:41:22,162 - get_data_all_cars - Parse data car with id:29056804
+2021-06-07 15:41:22,162 - get_data_all_cars - Try to save data car with id 29056804
+2021-06-07 15:41:22,162 - save_data_to_db - Car with id 29056804 was successfully update
+2021-06-07 15:41:22,407 - get_data_all_cars - Parse data car with id:29969841
+2021-06-07 15:41:22,407 - get_data_all_cars - Try to save data car with id 29969841
+2021-06-07 15:41:22,407 - save_data_to_db - Car with id 29969841 was successfully update
+2021-06-07 15:41:22,610 - get_data_all_cars - Parse data car with id:30131396
+2021-06-07 15:41:22,610 - get_data_all_cars - Try to save data car with id 30131396
+2021-06-07 15:41:22,610 - save_data_to_db - Car with id 30131396 was successfully update
+2021-06-07 15:41:22,969 - get_data_all_cars - Parse data car with id:30009032
+2021-06-07 15:41:22,969 - get_data_all_cars - Try to save data car with id 30009032
+2021-06-07 15:41:22,969 - save_data_to_db - Car with id 30009032 was successfully update
+2021-06-07 15:41:23,188 - get_data_all_cars - Parse data car with id:30166817
+2021-06-07 15:41:23,204 - get_data_all_cars - Try to save data car with id 30166817
+2021-06-07 15:41:23,204 - save_data_to_db - Car with id 30166817 was successfully update
+2021-06-07 15:41:23,422 - get_data_all_cars - Parse data car with id:30157906
+2021-06-07 15:41:23,422 - get_data_all_cars - Try to save data car with id 30157906
+2021-06-07 15:41:23,422 - save_data_to_db - Car with id 30157906 was successfully update
+2021-06-07 15:41:23,618 - get_data_all_cars - Parse data car with id:28682281
+2021-06-07 15:41:23,618 - get_data_all_cars - Try to save data car with id 28682281
+2021-06-07 15:41:23,618 - save_data_to_db - Car with id 28682281 was successfully update
+2021-06-07 15:41:23,869 - get_data_all_cars - Parse data car with id:30148958
+2021-06-07 15:41:23,869 - get_data_all_cars - Try to save data car with id 30148958
+2021-06-07 15:41:23,885 - save_data_to_db - Car with id 30148958 was successfully update
+2021-06-07 15:41:24,151 - get_data_all_cars - Parse data car with id:30110009
+2021-06-07 15:41:24,151 - get_data_all_cars - Try to save data car with id 30110009
+2021-06-07 15:41:24,151 - save_data_to_db - Car with id 30110009 was successfully update
+2021-06-07 15:41:24,369 - get_data_all_cars - Parse data car with id:29299821
+2021-06-07 15:41:24,369 - get_data_all_cars - Try to save data car with id 29299821
+2021-06-07 15:41:24,369 - save_data_to_db - Car with id 29299821 was successfully update
+2021-06-07 15:41:24,597 - get_data_all_cars - Parse data car with id:29896218
+2021-06-07 15:41:24,597 - get_data_all_cars - Try to save data car with id 29896218
+2021-06-07 15:41:24,597 - save_data_to_db - Car with id 29896218 was successfully update
+2021-06-07 15:41:24,817 - get_data_all_cars - Parse data car with id:20838888
+2021-06-07 15:41:24,817 - get_data_all_cars - Try to save data car with id 20838888
+2021-06-07 15:41:24,817 - save_data_to_db - Car with id 20838888 was successfully update
+2021-06-07 15:41:25,068 - get_data_all_cars - Parse data car with id:30101527
+2021-06-07 15:41:25,068 - get_data_all_cars - Try to save data car with id 30101527
+2021-06-07 15:41:25,068 - save_data_to_db - Car with id 30101527 was successfully update
+2021-06-07 15:41:25,304 - get_data_all_cars - Parse data car with id:29862664
+2021-06-07 15:41:25,304 - get_data_all_cars - Try to save data car with id 29862664
+2021-06-07 15:41:25,304 - save_data_to_db - Car with id 29862664 was successfully update
+2021-06-07 15:41:25,554 - get_data_all_cars - Parse data car with id:29912858
+2021-06-07 15:41:25,554 - get_data_all_cars - Try to save data car with id 29912858
+2021-06-07 15:41:25,554 - save_data_to_db - Car with id 29912858 was successfully update
+2021-06-07 15:41:25,835 - get_data_all_cars - Parse data car with id:30170286
+2021-06-07 15:41:25,835 - get_data_all_cars - Try to save data car with id 30170286
+2021-06-07 15:41:25,835 - save_data_to_db - Car with id 30170286 was successfully update
+2021-06-07 15:41:26,038 - get_data_all_cars - Parse data car with id:29414534
+2021-06-07 15:41:26,054 - get_data_all_cars - Try to save data car with id 29414534
+2021-06-07 15:41:26,054 - save_data_to_db - Car with id 29414534 was successfully update
+2021-06-07 15:41:26,343 - get_data_all_cars - Parse data car with id:29926782
+2021-06-07 15:41:26,343 - get_data_all_cars - Try to save data car with id 29926782
+2021-06-07 15:41:26,343 - save_data_to_db - Car with id 29926782 was successfully update
+2021-06-07 15:41:26,610 - get_data_all_cars - Parse data car with id:29277986
+2021-06-07 15:41:26,610 - get_data_all_cars - Try to save data car with id 29277986
+2021-06-07 15:41:26,610 - save_data_to_db - Car with id 29277986 was successfully update
+2021-06-07 15:41:26,860 - get_data_all_cars - Parse data car with id:30169378
+2021-06-07 15:41:26,860 - get_data_all_cars - Try to save data car with id 30169378
+2021-06-07 15:41:26,860 - save_data_to_db - Car with id 30169378 was successfully update
+2021-06-07 15:41:27,063 - get_data_all_cars - Parse data car with id:29056804
+2021-06-07 15:41:27,063 - get_data_all_cars - Try to save data car with id 29056804
+2021-06-07 15:41:27,063 - save_data_to_db - Car with id 29056804 was successfully update
+2021-06-07 15:41:27,344 - get_data_all_cars - Parse data car with id:30131396
+2021-06-07 15:41:27,344 - get_data_all_cars - Try to save data car with id 30131396
+2021-06-07 15:41:27,344 - save_data_to_db - Car with id 30131396 was successfully update
+2021-06-07 15:41:27,821 - get_data_all_cars - Parse data car with id:30166817
+2021-06-07 15:41:27,821 - get_data_all_cars - Try to save data car with id 30166817
+2021-06-07 15:41:27,821 - save_data_to_db - Car with id 30166817 was successfully update
+2021-06-07 15:41:28,041 - get_data_all_cars - Parse data car with id:28682281
+2021-06-07 15:41:28,041 - get_data_all_cars - Try to save data car with id 28682281
+2021-06-07 15:41:28,041 - save_data_to_db - Car with id 28682281 was successfully update
+2021-06-07 15:41:28,275 - get_data_all_cars - Parse data car with id:30110009
+2021-06-07 15:41:28,275 - get_data_all_cars - Try to save data car with id 30110009
+2021-06-07 15:41:28,275 - save_data_to_db - Car with id 30110009 was successfully update
+2021-06-07 15:41:28,494 - get_data_all_cars - Parse data car with id:29896218
+2021-06-07 15:41:28,494 - get_data_all_cars - Try to save data car with id 29896218
+2021-06-07 15:41:28,494 - save_data_to_db - Car with id 29896218 was successfully update
+2021-06-07 15:41:28,713 - get_data_all_cars - Parse data car with id:20838888
+2021-06-07 15:41:28,713 - get_data_all_cars - Try to save data car with id 20838888
+2021-06-07 15:41:28,713 - save_data_to_db - Car with id 20838888 was successfully update
+2021-06-07 15:41:28,947 - get_data_all_cars - Parse data car with id:30101527
+2021-06-07 15:41:28,947 - get_data_all_cars - Try to save data car with id 30101527
+2021-06-07 15:41:28,947 - save_data_to_db - Car with id 30101527 was successfully update
+2021-06-08 14:57:02,693 - <module> - Logger was created. Script was started
+2021-06-08 14:57:02,738 - get_ids_and_pages - Send get request to url...
+2021-06-08 14:57:03,200 - get_ids_and_pages - Parse ids on page 1/5...
+2021-06-08 14:57:03,771 - get_ids_and_pages - Parse ids on page 2/5...
+2021-06-08 14:57:04,738 - get_ids_and_pages - Parse ids on page 3/5...
+2021-06-08 14:57:06,365 - get_ids_and_pages - Parse ids on page 4/5...
+2021-06-08 14:57:07,303 - get_ids_and_pages - Parse ids on page 5/5...
+2021-06-08 14:57:08,159 - get_data_all_cars - Try to get data all cars
+2021-06-08 14:57:09,554 - get_data_all_cars - Parse data car with id:29866282
+2021-06-08 14:57:09,554 - get_data_all_cars - Try to save data car with id 29866282
+2021-06-08 14:57:09,581 - save_data_to_db - Data car with id 29866282 was successfully save in DB
+2021-06-08 14:57:10,795 - get_data_all_cars - Parse data car with id:28992504
+2021-06-08 14:57:10,795 - get_data_all_cars - Try to save data car with id 28992504
+2021-06-08 14:57:10,804 - save_data_to_db - Data car with id 28992504 was successfully save in DB
+2021-06-08 14:57:12,338 - get_data_all_cars - Parse data car with id:30084897
+2021-06-08 14:57:12,338 - get_data_all_cars - Try to save data car with id 30084897
+2021-06-08 14:57:12,350 - save_data_to_db - Data car with id 30084897 was successfully save in DB
+2021-06-08 14:57:13,072 - get_data_all_cars - Parse data car with id:29862664
+2021-06-08 14:57:13,072 - get_data_all_cars - Try to save data car with id 29862664
+2021-06-08 14:57:13,076 - save_data_to_db - Car with id 29862664 was successfully update
+2021-06-08 14:57:13,898 - get_data_all_cars - Parse data car with id:30082829
+2021-06-08 14:57:13,899 - get_data_all_cars - Try to save data car with id 30082829
+2021-06-08 14:57:13,913 - save_data_to_db - Data car with id 30082829 was successfully save in DB
+2021-06-08 14:57:14,244 - get_data_all_cars - Parse data car with id:29912858
+2021-06-08 14:57:14,244 - get_data_all_cars - Try to save data car with id 29912858
+2021-06-08 14:57:14,248 - save_data_to_db - Car with id 29912858 was successfully update
+2021-06-08 14:57:14,588 - get_data_all_cars - Parse data car with id:30181496
+2021-06-08 14:57:14,588 - get_data_all_cars - Try to save data car with id 30181496
+2021-06-08 14:57:14,606 - save_data_to_db - Data car with id 30181496 was successfully save in DB
+2021-06-08 14:57:15,471 - get_data_all_cars - Parse data car with id:30118769
+2021-06-08 14:57:15,471 - get_data_all_cars - Try to save data car with id 30118769
+2021-06-08 14:57:15,488 - save_data_to_db - Data car with id 30118769 was successfully save in DB
+2021-06-08 14:57:15,984 - get_data_all_cars - Parse data car with id:30118692
+2021-06-08 14:57:15,984 - get_data_all_cars - Try to save data car with id 30118692
+2021-06-08 14:57:15,997 - save_data_to_db - Data car with id 30118692 was successfully save in DB
+2021-06-08 14:57:16,329 - get_data_all_cars - Parse data car with id:30170286
+2021-06-08 14:57:16,330 - get_data_all_cars - Try to save data car with id 30170286
+2021-06-08 14:57:16,334 - save_data_to_db - Car with id 30170286 was successfully update
+2021-06-08 14:57:16,718 - get_data_all_cars - Parse data car with id:29926782
+2021-06-08 14:57:16,719 - get_data_all_cars - Try to save data car with id 29926782
+2021-06-08 14:57:16,722 - save_data_to_db - Car with id 29926782 was successfully update
+2021-06-08 14:57:17,061 - get_data_all_cars - Parse data car with id:29277986
+2021-06-08 14:57:17,061 - get_data_all_cars - Try to save data car with id 29277986
+2021-06-08 14:57:17,065 - save_data_to_db - Car with id 29277986 was successfully update
+2021-06-08 14:57:17,309 - get_data_all_cars - Parse data car with id:30182746
+2021-06-08 14:57:17,309 - get_data_all_cars - Try to save data car with id 30182746
+2021-06-08 14:57:17,338 - save_data_to_db - Data car with id 30182746 was successfully save in DB
+2021-06-08 14:57:17,735 - get_data_all_cars - Parse data car with id:30178060
+2021-06-08 14:57:17,735 - get_data_all_cars - Try to save data car with id 30178060
+2021-06-08 14:57:17,757 - save_data_to_db - Data car with id 30178060 was successfully save in DB
+2021-06-08 14:57:18,232 - get_data_all_cars - Parse data car with id:29056804
+2021-06-08 14:57:18,232 - get_data_all_cars - Try to save data car with id 29056804
+2021-06-08 14:57:18,248 - save_data_to_db - Car with id 29056804 was successfully update
+2021-06-08 14:57:18,547 - get_data_all_cars - Parse data car with id:29969841
+2021-06-08 14:57:18,547 - get_data_all_cars - Try to save data car with id 29969841
+2021-06-08 14:57:18,551 - save_data_to_db - Car with id 29969841 was successfully update
+2021-06-08 14:57:19,430 - get_data_all_cars - Parse data car with id:28193073
+2021-06-08 14:57:19,431 - get_data_all_cars - Try to save data car with id 28193073
+2021-06-08 14:57:19,448 - save_data_to_db - Data car with id 28193073 was successfully save in DB
+2021-06-08 14:57:20,829 - get_data_all_cars - Parse data car with id:29091839
+2021-06-08 14:57:20,829 - get_data_all_cars - Try to save data car with id 29091839
+2021-06-08 14:57:20,861 - save_data_to_db - Data car with id 29091839 was successfully save in DB
+2021-06-08 14:57:21,277 - get_data_all_cars - Parse data car with id:29623799
+2021-06-08 14:57:21,277 - get_data_all_cars - Try to save data car with id 29623799
+2021-06-08 14:57:21,292 - save_data_to_db - Data car with id 29623799 was successfully save in DB
+2021-06-08 14:57:22,058 - get_data_all_cars - Parse data car with id:30180928
+2021-06-08 14:57:22,059 - get_data_all_cars - Try to save data car with id 30180928
+2021-06-08 14:57:22,080 - save_data_to_db - Data car with id 30180928 was successfully save in DB
+2021-06-08 14:57:22,798 - get_data_all_cars - Parse data car with id:29866282
+2021-06-08 14:57:22,799 - get_data_all_cars - Try to save data car with id 29866282
+2021-06-08 14:57:22,800 - save_data_to_db - Car with id 29866282 was successfully update
+2021-06-08 14:57:23,063 - get_data_all_cars - Parse data car with id:28992504
+2021-06-08 14:57:23,063 - get_data_all_cars - Try to save data car with id 28992504
+2021-06-08 14:57:23,067 - save_data_to_db - Car with id 28992504 was successfully update
+2021-06-08 14:57:23,306 - get_data_all_cars - Parse data car with id:30084897
+2021-06-08 14:57:23,306 - get_data_all_cars - Try to save data car with id 30084897
+2021-06-08 14:57:23,310 - save_data_to_db - Car with id 30084897 was successfully update
+2021-06-08 14:57:23,595 - get_data_all_cars - Parse data car with id:29862664
+2021-06-08 14:57:23,595 - get_data_all_cars - Try to save data car with id 29862664
+2021-06-08 14:57:23,599 - save_data_to_db - Car with id 29862664 was successfully update
+2021-06-08 14:57:23,893 - get_data_all_cars - Parse data car with id:30082829
+2021-06-08 14:57:23,894 - get_data_all_cars - Try to save data car with id 30082829
+2021-06-08 14:57:23,897 - save_data_to_db - Car with id 30082829 was successfully update
+2021-06-08 14:57:24,184 - get_data_all_cars - Parse data car with id:29912858
+2021-06-08 14:57:24,184 - get_data_all_cars - Try to save data car with id 29912858
+2021-06-08 14:57:24,188 - save_data_to_db - Car with id 29912858 was successfully update
+2021-06-08 14:57:24,543 - get_data_all_cars - Parse data car with id:30181496
+2021-06-08 14:57:24,544 - get_data_all_cars - Try to save data car with id 30181496
+2021-06-08 14:57:24,547 - save_data_to_db - Car with id 30181496 was successfully update
+2021-06-08 14:57:24,783 - get_data_all_cars - Parse data car with id:30118769
+2021-06-08 14:57:24,783 - get_data_all_cars - Try to save data car with id 30118769
+2021-06-08 14:57:24,787 - save_data_to_db - Car with id 30118769 was successfully update
+2021-06-08 14:57:25,031 - get_data_all_cars - Parse data car with id:30118692
+2021-06-08 14:57:25,031 - get_data_all_cars - Try to save data car with id 30118692
+2021-06-08 14:57:25,034 - save_data_to_db - Car with id 30118692 was successfully update
+2021-06-08 14:57:25,359 - get_data_all_cars - Parse data car with id:30170286
+2021-06-08 14:57:25,359 - get_data_all_cars - Try to save data car with id 30170286
+2021-06-08 14:57:25,364 - save_data_to_db - Car with id 30170286 was successfully update
+2021-06-08 14:57:25,695 - get_data_all_cars - Parse data car with id:29926782
+2021-06-08 14:57:25,695 - get_data_all_cars - Try to save data car with id 29926782
+2021-06-08 14:57:25,699 - save_data_to_db - Car with id 29926782 was successfully update
+2021-06-08 14:57:26,041 - get_data_all_cars - Parse data car with id:29277986
+2021-06-08 14:57:26,041 - get_data_all_cars - Try to save data car with id 29277986
+2021-06-08 14:57:26,045 - save_data_to_db - Car with id 29277986 was successfully update
+2021-06-08 14:57:26,367 - get_data_all_cars - Parse data car with id:30182746
+2021-06-08 14:57:26,367 - get_data_all_cars - Try to save data car with id 30182746
+2021-06-08 14:57:26,373 - save_data_to_db - Car with id 30182746 was successfully update
+2021-06-08 14:57:26,631 - get_data_all_cars - Parse data car with id:30178060
+2021-06-08 14:57:26,631 - get_data_all_cars - Try to save data car with id 30178060
+2021-06-08 14:57:26,635 - save_data_to_db - Car with id 30178060 was successfully update
+2021-06-08 14:57:26,838 - get_data_all_cars - Parse data car with id:29056804
+2021-06-08 14:57:26,838 - get_data_all_cars - Try to save data car with id 29056804
+2021-06-08 14:57:26,841 - save_data_to_db - Car with id 29056804 was successfully update
+2021-06-08 14:57:27,064 - get_data_all_cars - Parse data car with id:29969841
+2021-06-08 14:57:27,064 - get_data_all_cars - Try to save data car with id 29969841
+2021-06-08 14:57:27,068 - save_data_to_db - Car with id 29969841 was successfully update
+2021-06-08 14:57:27,474 - get_data_all_cars - Parse data car with id:28193073
+2021-06-08 14:57:27,474 - get_data_all_cars - Try to save data car with id 28193073
+2021-06-08 14:57:27,478 - save_data_to_db - Car with id 28193073 was successfully update
+2021-06-08 14:57:27,793 - get_data_all_cars - Parse data car with id:29091839
+2021-06-08 14:57:27,793 - get_data_all_cars - Try to save data car with id 29091839
+2021-06-08 14:57:27,797 - save_data_to_db - Car with id 29091839 was successfully update
+2021-06-08 14:57:28,057 - get_data_all_cars - Parse data car with id:29623799
+2021-06-08 14:57:28,058 - get_data_all_cars - Try to save data car with id 29623799
+2021-06-08 14:57:28,061 - save_data_to_db - Car with id 29623799 was successfully update
+2021-06-08 14:57:28,324 - get_data_all_cars - Parse data car with id:30180928
+2021-06-08 14:57:28,324 - get_data_all_cars - Try to save data car with id 30180928
+2021-06-08 14:57:28,328 - save_data_to_db - Car with id 30180928 was successfully update
+2021-06-08 14:57:28,698 - get_data_all_cars - Parse data car with id:30175629
+2021-06-08 14:57:28,699 - get_data_all_cars - Try to save data car with id 30175629
+2021-06-08 14:57:28,735 - save_data_to_db - Data car with id 30175629 was successfully save in DB
+2021-06-08 14:57:29,514 - get_data_all_cars - Parse data car with id:30166817
+2021-06-08 14:57:29,514 - get_data_all_cars - Try to save data car with id 30166817
+2021-06-08 14:57:29,518 - save_data_to_db - Car with id 30166817 was successfully update
+2021-06-08 14:57:29,935 - get_data_all_cars - Parse data car with id:29797688
+2021-06-08 14:57:29,935 - get_data_all_cars - Try to save data car with id 29797688
+2021-06-08 14:57:29,945 - save_data_to_db - Data car with id 29797688 was successfully save in DB
+2021-06-08 14:57:30,336 - get_data_all_cars - Parse data car with id:28682281
+2021-06-08 14:57:30,336 - get_data_all_cars - Try to save data car with id 28682281
+2021-06-08 14:57:30,337 - save_data_to_db - Car with id 28682281 was successfully update
+2021-06-08 14:57:30,769 - get_data_all_cars - Parse data car with id:30148958
+2021-06-08 14:57:30,769 - get_data_all_cars - Try to save data car with id 30148958
+2021-06-08 14:57:30,773 - save_data_to_db - Car with id 30148958 was successfully update
+2021-06-08 14:57:32,670 - get_data_all_cars - Parse data car with id:30110009
+2021-06-08 14:57:32,670 - get_data_all_cars - Try to save data car with id 30110009
+2021-06-08 14:57:32,674 - save_data_to_db - Car with id 30110009 was successfully update
+2021-06-08 14:57:33,524 - get_data_all_cars - Parse data car with id:29299821
+2021-06-08 14:57:33,524 - get_data_all_cars - Try to save data car with id 29299821
+2021-06-08 14:57:33,526 - save_data_to_db - Car with id 29299821 was successfully update
+2021-06-08 14:57:34,060 - get_data_all_cars - Parse data car with id:20838888
+2021-06-08 14:57:34,060 - get_data_all_cars - Try to save data car with id 20838888
+2021-06-08 14:57:34,064 - save_data_to_db - Car with id 20838888 was successfully update
+2021-06-08 14:57:34,454 - get_data_all_cars - Parse data car with id:30061534
+2021-06-08 14:57:34,455 - get_data_all_cars - Try to save data car with id 30061534
+2021-06-08 14:57:34,486 - save_data_to_db - Data car with id 30061534 was successfully save in DB
+2021-06-08 14:57:34,864 - get_data_all_cars - Parse data car with id:29726431
+2021-06-08 14:57:34,864 - get_data_all_cars - Try to save data car with id 29726431
+2021-06-08 14:57:34,874 - save_data_to_db - Data car with id 29726431 was successfully save in DB
+2021-06-08 14:57:35,750 - get_data_all_cars - Parse data car with id:29095238
+2021-06-08 14:57:35,750 - get_data_all_cars - Try to save data car with id 29095238
+2021-06-08 14:57:35,783 - save_data_to_db - Data car with id 29095238 was successfully save in DB
+2021-06-08 14:57:36,183 - get_data_all_cars - Parse data car with id:29932929
+2021-06-08 14:57:36,184 - get_data_all_cars - Try to save data car with id 29932929
+2021-06-08 14:57:36,202 - save_data_to_db - Data car with id 29932929 was successfully save in DB
+2021-06-08 14:57:36,888 - get_data_all_cars - Parse data car with id:30181849
+2021-06-08 14:57:36,888 - get_data_all_cars - Try to save data car with id 30181849
+2021-06-08 14:57:36,916 - save_data_to_db - Data car with id 30181849 was successfully save in DB
+2021-06-08 14:57:37,839 - get_data_all_cars - Parse data car with id:30181423
+2021-06-08 14:57:37,839 - get_data_all_cars - Try to save data car with id 30181423
+2021-06-08 14:57:37,873 - save_data_to_db - Data car with id 30181423 was successfully save in DB
+2021-06-08 14:57:38,555 - get_data_all_cars - Parse data car with id:29498233
+2021-06-08 14:57:38,555 - get_data_all_cars - Try to save data car with id 29498233
+2021-06-08 14:57:38,574 - save_data_to_db - Data car with id 29498233 was successfully save in DB
+2021-06-08 14:57:39,860 - get_data_all_cars - Parse data car with id:29220880
+2021-06-08 14:57:39,861 - get_data_all_cars - Try to save data car with id 29220880
+2021-06-08 14:57:39,883 - save_data_to_db - Data car with id 29220880 was successfully save in DB
+2021-06-08 14:57:40,528 - get_data_all_cars - Parse data car with id:30154751
+2021-06-08 14:57:40,529 - get_data_all_cars - Try to save data car with id 30154751
+2021-06-08 14:57:40,558 - save_data_to_db - Data car with id 30154751 was successfully save in DB
+2021-06-08 14:57:42,321 - get_data_all_cars - Parse data car with id:29664716
+2021-06-08 14:57:42,321 - get_data_all_cars - Try to save data car with id 29664716
+2021-06-08 14:57:42,341 - save_data_to_db - Data car with id 29664716 was successfully save in DB
+2021-06-08 14:57:42,733 - get_data_all_cars - Parse data car with id:30073741
+2021-06-08 14:57:42,733 - get_data_all_cars - Try to save data car with id 30073741
+2021-06-08 14:57:42,748 - save_data_to_db - Data car with id 30073741 was successfully save in DB
+2021-06-08 14:57:43,323 - get_data_all_cars - Parse data car with id:29844928
+2021-06-08 14:57:43,323 - get_data_all_cars - Try to save data car with id 29844928
+2021-06-08 14:57:43,343 - save_data_to_db - Data car with id 29844928 was successfully save in DB
+2021-06-08 14:57:44,073 - get_data_all_cars - Parse data car with id:30148899
+2021-06-08 14:57:44,073 - get_data_all_cars - Try to save data car with id 30148899
+2021-06-08 14:57:44,102 - save_data_to_db - Data car with id 30148899 was successfully save in DB
+2021-06-08 14:57:44,545 - get_data_all_cars - Parse data car with id:27978810
+2021-06-08 14:57:44,546 - get_data_all_cars - Try to save data car with id 27978810
+2021-06-08 14:57:44,566 - save_data_to_db - Data car with id 27978810 was successfully save in DB
+2021-06-08 14:57:45,134 - get_data_all_cars - Parse data car with id:30147872
+2021-06-08 14:57:45,135 - get_data_all_cars - Try to save data car with id 30147872
+2021-06-08 14:57:45,169 - save_data_to_db - Data car with id 30147872 was successfully save in DB
+2021-06-08 14:57:45,676 - get_data_all_cars - Parse data car with id:30147420
+2021-06-08 14:57:45,676 - get_data_all_cars - Try to save data car with id 30147420
+2021-06-08 14:57:45,697 - save_data_to_db - Data car with id 30147420 was successfully save in DB
+2021-06-08 14:57:46,023 - get_data_all_cars - Parse data car with id:29592626
+2021-06-08 14:57:46,023 - get_data_all_cars - Try to save data car with id 29592626
+2021-06-08 14:57:46,049 - save_data_to_db - Data car with id 29592626 was successfully save in DB
+2021-06-08 14:57:46,361 - get_data_all_cars - Parse data car with id:30143870
+2021-06-08 14:57:46,361 - get_data_all_cars - Try to save data car with id 30143870
+2021-06-08 14:57:46,377 - save_data_to_db - Data car with id 30143870 was successfully save in DB
+2021-06-08 14:57:46,639 - get_data_all_cars - Parse data car with id:30135349
+2021-06-08 14:57:46,640 - get_data_all_cars - Try to save data car with id 30135349
+2021-06-08 14:57:46,658 - save_data_to_db - Data car with id 30135349 was successfully save in DB
+2021-06-08 14:57:47,264 - get_data_all_cars - Parse data car with id:30047915
+2021-06-08 14:57:47,265 - get_data_all_cars - Try to save data car with id 30047915
+2021-06-08 14:57:47,292 - save_data_to_db - Data car with id 30047915 was successfully save in DB
+2021-06-08 14:57:47,698 - get_data_all_cars - Parse data car with id:30128365
+2021-06-08 14:57:47,699 - get_data_all_cars - Try to save data car with id 30128365
+2021-06-08 14:57:47,707 - save_data_to_db - Data car with id 30128365 was successfully save in DB
+2021-06-08 14:57:48,225 - get_data_all_cars - Parse data car with id:30124142
+2021-06-08 14:57:48,226 - get_data_all_cars - Try to save data car with id 30124142
+2021-06-08 14:57:48,239 - save_data_to_db - Data car with id 30124142 was successfully save in DB
+2021-06-08 14:57:48,852 - get_data_all_cars - Parse data car with id:29811520
+2021-06-08 14:57:48,854 - get_data_all_cars - Try to save data car with id 29811520
+2021-06-08 14:57:48,872 - save_data_to_db - Data car with id 29811520 was successfully save in DB
+2021-06-08 14:57:49,210 - get_data_all_cars - Parse data car with id:30113530
+2021-06-08 14:57:49,210 - get_data_all_cars - Try to save data car with id 30113530
+2021-06-08 14:57:49,227 - save_data_to_db - Data car with id 30113530 was successfully save in DB
+2021-06-08 14:57:49,923 - get_data_all_cars - Parse data car with id:30107368
+2021-06-08 14:57:49,923 - get_data_all_cars - Try to save data car with id 30107368
+2021-06-08 14:57:49,932 - save_data_to_db - Data car with id 30107368 was successfully save in DB
+2021-06-08 14:57:50,479 - get_data_all_cars - Parse data car with id:30002394
+2021-06-08 14:57:50,480 - get_data_all_cars - Try to save data car with id 30002394
+2021-06-08 14:57:50,513 - save_data_to_db - Data car with id 30002394 was successfully save in DB
+2021-06-08 14:57:50,885 - get_data_all_cars - Parse data car with id:30090645
+2021-06-08 14:57:50,885 - get_data_all_cars - Try to save data car with id 30090645
+2021-06-08 14:57:50,899 - save_data_to_db - Data car with id 30090645 was successfully save in DB
+2021-06-08 14:57:52,213 - get_data_all_cars - Parse data car with id:30073552
+2021-06-08 14:57:52,213 - get_data_all_cars - Try to save data car with id 30073552
+2021-06-08 14:57:52,240 - save_data_to_db - Data car with id 30073552 was successfully save in DB
+2021-06-08 14:57:52,554 - get_data_all_cars - Parse data car with id:30066178
+2021-06-08 14:57:52,554 - get_data_all_cars - Try to save data car with id 30066178
+2021-06-08 14:57:52,572 - save_data_to_db - Data car with id 30066178 was successfully save in DB
+2021-06-08 14:57:53,039 - get_data_all_cars - Parse data car with id:29714221
+2021-06-08 14:57:53,039 - get_data_all_cars - Try to save data car with id 29714221
+2021-06-08 14:57:53,051 - save_data_to_db - Data car with id 29714221 was successfully save in DB
+2021-06-08 14:57:53,475 - get_data_all_cars - Parse data car with id:29476566
+2021-06-08 14:57:53,475 - get_data_all_cars - Try to save data car with id 29476566
+2021-06-08 14:57:53,486 - save_data_to_db - Data car with id 29476566 was successfully save in DB
+2021-06-08 14:57:53,971 - get_data_all_cars - Parse data car with id:29653303
+2021-06-08 14:57:53,971 - get_data_all_cars - Try to save data car with id 29653303
+2021-06-08 14:57:54,006 - save_data_to_db - Data car with id 29653303 was successfully save in DB
+2021-06-08 14:57:54,688 - get_data_all_cars - Parse data car with id:30110089
+2021-06-08 14:57:54,689 - get_data_all_cars - Try to save data car with id 30110089
+2021-06-08 14:57:54,713 - save_data_to_db - Data car with id 30110089 was successfully save in DB
+2021-06-08 14:57:55,934 - get_data_all_cars - Parse data car with id:29964122
+2021-06-08 14:57:55,934 - get_data_all_cars - Try to save data car with id 29964122
+2021-06-08 14:57:55,954 - save_data_to_db - Data car with id 29964122 was successfully save in DB
+2021-06-08 14:57:56,408 - get_data_all_cars - Parse data car with id:30039416
+2021-06-08 14:57:56,409 - get_data_all_cars - Try to save data car with id 30039416
+2021-06-08 14:57:56,429 - save_data_to_db - Data car with id 30039416 was successfully save in DB
+2021-06-08 14:57:57,387 - get_data_all_cars - Parse data car with id:29268645
+2021-06-08 14:57:57,387 - get_data_all_cars - Try to save data car with id 29268645
+2021-06-08 14:57:57,405 - save_data_to_db - Data car with id 29268645 was successfully save in DB
+2021-06-08 14:57:57,767 - get_data_all_cars - Parse data car with id:29955932
+2021-06-08 14:57:57,767 - get_data_all_cars - Try to save data car with id 29955932
+2021-06-08 14:57:57,785 - save_data_to_db - Data car with id 29955932 was successfully save in DB
+2021-06-08 14:57:58,268 - get_data_all_cars - Parse data car with id:30092653
+2021-06-08 14:57:58,268 - get_data_all_cars - Try to save data car with id 30092653
+2021-06-08 14:57:58,285 - save_data_to_db - Data car with id 30092653 was successfully save in DB
+2021-06-08 14:57:59,025 - get_data_all_cars - Parse data car with id:30092685
+2021-06-08 14:57:59,026 - get_data_all_cars - Try to save data car with id 30092685
+2021-06-08 14:57:59,040 - save_data_to_db - Data car with id 30092685 was successfully save in DB
+2021-06-08 14:57:59,637 - get_data_all_cars - Parse data car with id:29426682
+2021-06-08 14:57:59,638 - get_data_all_cars - Try to save data car with id 29426682
+2021-06-08 14:57:59,671 - save_data_to_db - Data car with id 29426682 was successfully save in DB
+2021-06-08 14:58:00,256 - get_data_all_cars - Parse data car with id:30087328
+2021-06-08 14:58:00,256 - get_data_all_cars - Try to save data car with id 30087328
+2021-06-08 14:58:00,276 - save_data_to_db - Data car with id 30087328 was successfully save in DB
+2021-06-08 14:58:00,752 - get_data_all_cars - Parse data car with id:30086887
+2021-06-08 14:58:00,752 - get_data_all_cars - Try to save data car with id 30086887
+2021-06-08 14:58:00,765 - save_data_to_db - Data car with id 30086887 was successfully save in DB
+2021-06-08 14:58:01,158 - get_data_all_cars - Parse data car with id:25916955
+2021-06-08 14:58:01,158 - get_data_all_cars - Try to save data car with id 25916955
+2021-06-08 14:58:01,163 - save_data_to_db - Data car with id 25916955 was successfully save in DB
+2021-06-08 14:58:01,757 - get_data_all_cars - Parse data car with id:27546136
+2021-06-08 14:58:01,758 - get_data_all_cars - Try to save data car with id 27546136
+2021-06-08 14:58:01,777 - save_data_to_db - Data car with id 27546136 was successfully save in DB
+2021-06-08 14:58:02,701 - get_data_all_cars - Parse data car with id:29650837
+2021-06-08 14:58:02,701 - get_data_all_cars - Try to save data car with id 29650837
+2021-06-08 14:58:02,709 - save_data_to_db - Data car with id 29650837 was successfully save in DB
+2021-06-08 14:58:03,094 - get_data_all_cars - Parse data car with id:29797785
+2021-06-08 14:58:03,094 - get_data_all_cars - Try to save data car with id 29797785
+2021-06-08 14:58:03,108 - save_data_to_db - Data car with id 29797785 was successfully save in DB
+2021-06-08 14:58:04,757 - get_data_all_cars - Parse data car with id:30060010
+2021-06-08 14:58:04,758 - get_data_all_cars - Try to save data car with id 30060010
+2021-06-08 14:58:04,805 - save_data_to_db - Data car with id 30060010 was successfully save in DB
+2021-06-08 14:58:05,181 - get_data_all_cars - Parse data car with id:29748031
+2021-06-08 14:58:05,182 - get_data_all_cars - Try to save data car with id 29748031
+2021-06-08 14:58:05,199 - save_data_to_db - Data car with id 29748031 was successfully save in DB
+2021-06-08 14:58:05,666 - get_data_all_cars - Parse data car with id:29522272
+2021-06-08 14:58:05,667 - get_data_all_cars - Try to save data car with id 29522272
+2021-06-08 14:58:05,697 - save_data_to_db - Data car with id 29522272 was successfully save in DB
+2021-06-08 14:58:06,189 - get_data_all_cars - Parse data car with id:29724859
+2021-06-08 14:58:06,189 - get_data_all_cars - Try to save data car with id 29724859
+2021-06-08 14:58:06,204 - save_data_to_db - Data car with id 29724859 was successfully save in DB
+2021-06-08 14:58:06,662 - get_data_all_cars - Parse data car with id:30042852
+2021-06-08 14:58:06,663 - get_data_all_cars - Try to save data car with id 30042852
+2021-06-08 14:58:06,673 - save_data_to_db - Data car with id 30042852 was successfully save in DB
+2021-06-08 14:58:07,175 - get_data_all_cars - Parse data car with id:29795685
+2021-06-08 14:58:07,175 - get_data_all_cars - Try to save data car with id 29795685
+2021-06-08 14:58:07,193 - save_data_to_db - Data car with id 29795685 was successfully save in DB
+2021-06-08 14:58:08,706 - get_data_all_cars - Parse data car with id:29365440
+2021-06-08 14:58:08,706 - get_data_all_cars - Try to save data car with id 29365440
+2021-06-08 14:58:08,736 - save_data_to_db - Data car with id 29365440 was successfully save in DB
+2021-06-08 14:58:09,061 - get_data_all_cars - Parse data car with id:30021830
+2021-06-08 14:58:09,061 - get_data_all_cars - Try to save data car with id 30021830
+2021-06-08 14:58:09,089 - save_data_to_db - Data car with id 30021830 was successfully save in DB
+2021-06-08 14:58:09,784 - get_data_all_cars - Parse data car with id:30017973
+2021-06-08 14:58:09,784 - get_data_all_cars - Try to save data car with id 30017973
+2021-06-08 14:58:09,798 - save_data_to_db - Data car with id 30017973 was successfully save in DB
+2021-06-08 14:58:10,085 - get_data_all_cars - Parse data car with id:30010004
+2021-06-08 14:58:10,085 - get_data_all_cars - Try to save data car with id 30010004
+2021-06-08 14:58:10,103 - save_data_to_db - Data car with id 30010004 was successfully save in DB
+2021-06-08 14:58:10,564 - get_data_all_cars - Parse data car with id:29992751
+2021-06-08 14:58:10,564 - get_data_all_cars - Try to save data car with id 29992751
+2021-06-08 14:58:10,578 - save_data_to_db - Data car with id 29992751 was successfully save in DB
+2021-06-08 14:58:11,909 - get_data_all_cars - Parse data car with id:29319110
+2021-06-08 14:58:11,909 - get_data_all_cars - Try to save data car with id 29319110
+2021-06-08 14:58:11,925 - save_data_to_db - Data car with id 29319110 was successfully save in DB
+2021-06-08 14:58:13,088 - get_data_all_cars - Parse data car with id:29997221
+2021-06-08 14:58:13,088 - get_data_all_cars - Try to save data car with id 29997221
+2021-06-08 14:58:13,110 - save_data_to_db - Data car with id 29997221 was successfully save in DB
+2021-06-08 14:58:13,626 - get_data_all_cars - Parse data car with id:29995357
+2021-06-08 14:58:13,626 - get_data_all_cars - Try to save data car with id 29995357
+2021-06-08 14:58:13,649 - save_data_to_db - Data car with id 29995357 was successfully save in DB
+2021-06-08 14:58:14,967 - get_data_all_cars - Parse data car with id:29989984
+2021-06-08 14:58:14,967 - get_data_all_cars - Try to save data car with id 29989984
+2021-06-08 14:58:14,977 - save_data_to_db - Data car with id 29989984 was successfully save in DB
+2021-06-08 14:58:15,328 - get_data_all_cars - Parse data car with id:29946416
+2021-06-08 14:58:15,328 - get_data_all_cars - Try to save data car with id 29946416
+2021-06-08 14:58:15,358 - save_data_to_db - Data car with id 29946416 was successfully save in DB
+2021-06-08 14:58:15,727 - get_data_all_cars - Parse data car with id:29940582
+2021-06-08 14:58:15,728 - get_data_all_cars - Try to save data car with id 29940582
+2021-06-08 14:58:15,733 - save_data_to_db - Data car with id 29940582 was successfully save in DB
+2021-06-08 14:58:16,258 - get_data_all_cars - Parse data car with id:29087134
+2021-06-08 14:58:16,258 - get_data_all_cars - Try to save data car with id 29087134
+2021-06-08 14:58:16,269 - save_data_to_db - Data car with id 29087134 was successfully save in DB
+2021-06-08 14:58:16,704 - get_data_all_cars - Parse data car with id:29912612
+2021-06-08 14:58:16,704 - get_data_all_cars - Try to save data car with id 29912612
+2021-06-08 14:58:16,738 - save_data_to_db - Data car with id 29912612 was successfully save in DB
+2021-06-08 14:58:17,529 - get_data_all_cars - Parse data car with id:30130658
+2021-06-08 14:58:17,529 - get_data_all_cars - Try to save data car with id 30130658
+2021-06-08 14:58:17,537 - save_data_to_db - Data car with id 30130658 was successfully save in DB
+2021-06-08 14:58:17,761 - get_data_all_cars - Parse data car with id:30182430
+2021-06-08 14:58:17,761 - get_data_all_cars - Try to save data car with id 30182430
+2021-06-08 14:58:17,799 - save_data_to_db - Data car with id 30182430 was successfully save in DB
+2021-06-08 14:58:18,396 - get_data_all_cars - Parse data car with id:29907597
+2021-06-08 14:58:18,396 - get_data_all_cars - Try to save data car with id 29907597
+2021-06-08 14:58:18,415 - save_data_to_db - Data car with id 29907597 was successfully save in DB
+2021-06-08 14:58:18,994 - get_data_all_cars - Parse data car with id:30182373
+2021-06-08 14:58:18,994 - get_data_all_cars - Try to save data car with id 30182373
+2021-06-08 14:58:19,004 - save_data_to_db - Data car with id 30182373 was successfully save in DB
+2021-06-08 14:58:19,488 - get_data_all_cars - Parse data car with id:30182236
+2021-06-08 14:58:19,488 - get_data_all_cars - Try to save data car with id 30182236
+2021-06-08 14:58:19,506 - save_data_to_db - Data car with id 30182236 was successfully save in DB
+2021-06-11 11:08:20,350 - <module> - Logger was created. Script was started
+2021-06-11 11:08:20,401 - get_ids_and_pages - Send get request to url...
+2021-06-11 11:08:21,486 - get_ids_and_pages - Parse ids on page 1/10...
+2021-06-11 11:08:21,728 - get_ids_and_pages - Parse ids on page 2/10...
+2021-06-11 11:08:22,398 - get_ids_and_pages - Parse ids on page 3/10...
+2021-06-11 11:08:23,313 - get_ids_and_pages - Parse ids on page 4/10...
+2021-06-11 11:08:24,222 - get_ids_and_pages - Parse ids on page 5/10...
+2021-06-11 11:08:25,736 - get_ids_and_pages - Parse ids on page 6/10...
+2021-06-11 11:08:26,587 - get_ids_and_pages - Parse ids on page 7/10...
+2021-06-11 11:08:27,460 - get_ids_and_pages - Parse ids on page 8/10...
+2021-06-11 11:08:28,760 - get_ids_and_pages - Parse ids on page 9/10...
+2021-06-11 11:08:29,803 - get_ids_and_pages - Parse ids on page 10/10...
+2021-06-11 11:08:30,517 - get_data_all_cars - Try to get data all cars
+2021-06-11 11:08:30,777 - get_data_all_cars - Parse data car with id:30189321
+2021-06-11 11:08:30,778 - get_data_all_cars - Try to save data car with id 30189321
+2021-06-11 11:08:30,801 - save_data_to_db - Data car with id 30189321 was successfully save in DB
+2021-06-11 11:08:31,216 - get_data_all_cars - Parse data car with id:30118769
+2021-06-11 11:08:31,216 - get_data_all_cars - Try to save data car with id 30118769
+2021-06-11 11:08:31,219 - save_data_to_db - Car with id 30118769 was successfully update
+2021-06-11 11:08:31,558 - get_data_all_cars - Parse data car with id:30118692
+2021-06-11 11:08:31,558 - get_data_all_cars - Try to save data car with id 30118692
+2021-06-11 11:08:31,562 - save_data_to_db - Car with id 30118692 was successfully update
+2021-06-11 11:08:32,975 - get_data_all_cars - Parse data car with id:30170286
+2021-06-11 11:08:32,976 - get_data_all_cars - Try to save data car with id 30170286
+2021-06-11 11:08:32,999 - save_data_to_db - Car with id 30170286 was successfully update
+2021-06-11 11:08:33,301 - get_data_all_cars - Parse data car with id:30081238
+2021-06-11 11:08:33,301 - get_data_all_cars - Try to save data car with id 30081238
+2021-06-11 11:08:33,335 - save_data_to_db - Data car with id 30081238 was successfully save in DB
+2021-06-11 11:08:33,723 - get_data_all_cars - Parse data car with id:30073552
+2021-06-11 11:08:33,723 - get_data_all_cars - Try to save data car with id 30073552
+2021-06-11 11:08:33,763 - save_data_to_db - Car with id 30073552 was successfully update
+2021-06-11 11:08:34,023 - get_data_all_cars - Parse data car with id:29739436
+2021-06-11 11:08:34,023 - get_data_all_cars - Try to save data car with id 29739436
+2021-06-11 11:08:34,038 - save_data_to_db - Data car with id 29739436 was successfully save in DB
+2021-06-11 11:08:34,396 - get_data_all_cars - Parse data car with id:29926782
+2021-06-11 11:08:34,396 - get_data_all_cars - Try to save data car with id 29926782
+2021-06-11 11:08:34,401 - save_data_to_db - Car with id 29926782 was successfully update
+2021-06-11 11:08:34,742 - get_data_all_cars - Parse data car with id:29623799
+2021-06-11 11:08:34,743 - get_data_all_cars - Try to save data car with id 29623799
+2021-06-11 11:08:34,761 - save_data_to_db - Car with id 29623799 was successfully update
+2021-06-11 11:08:35,301 - get_data_all_cars - Parse data car with id:30211913
+2021-06-11 11:08:35,302 - get_data_all_cars - Try to save data car with id 30211913
+2021-06-11 11:08:35,324 - save_data_to_db - Data car with id 30211913 was successfully save in DB
+2021-06-11 11:08:35,920 - get_data_all_cars - Parse data car with id:27869643
+2021-06-11 11:08:35,920 - get_data_all_cars - Try to save data car with id 27869643
+2021-06-11 11:08:35,940 - save_data_to_db - Data car with id 27869643 was successfully save in DB
+2021-06-11 11:08:36,495 - get_data_all_cars - Parse data car with id:29056804
+2021-06-11 11:08:36,495 - get_data_all_cars - Try to save data car with id 29056804
+2021-06-11 11:08:36,525 - save_data_to_db - Car with id 29056804 was successfully update
+2021-06-11 11:08:36,915 - get_data_all_cars - Parse data car with id:30142977
+2021-06-11 11:08:36,915 - get_data_all_cars - Try to save data car with id 30142977
+2021-06-11 11:08:36,926 - save_data_to_db - Data car with id 30142977 was successfully save in DB
+2021-06-11 11:08:38,089 - get_data_all_cars - Parse data car with id:30142689
+2021-06-11 11:08:38,090 - get_data_all_cars - Try to save data car with id 30142689
+2021-06-11 11:08:38,099 - save_data_to_db - Data car with id 30142689 was successfully save in DB
+2021-06-11 11:08:39,076 - get_data_all_cars - Parse data car with id:30141474
+2021-06-11 11:08:39,076 - get_data_all_cars - Try to save data car with id 30141474
+2021-06-11 11:08:39,115 - save_data_to_db - Data car with id 30141474 was successfully save in DB
+2021-06-11 11:08:42,995 - get_data_all_cars - Parse data car with id:29969841
+2021-06-11 11:08:42,995 - get_data_all_cars - Try to save data car with id 29969841
+2021-06-11 11:08:43,000 - save_data_to_db - Car with id 29969841 was successfully update
+2021-06-11 11:08:44,696 - get_data_all_cars - Parse data car with id:30108064
+2021-06-11 11:08:44,697 - get_data_all_cars - Try to save data car with id 30108064
+2021-06-11 11:08:44,715 - save_data_to_db - Data car with id 30108064 was successfully save in DB
+2021-06-11 11:08:47,274 - get_data_all_cars - Parse data car with id:30091710
+2021-06-11 11:08:47,275 - get_data_all_cars - Try to save data car with id 30091710
+2021-06-11 11:08:47,293 - save_data_to_db - Data car with id 30091710 was successfully save in DB
+2021-06-11 11:08:49,469 - get_data_all_cars - Parse data car with id:30018922
+2021-06-11 11:08:49,469 - get_data_all_cars - Try to save data car with id 30018922
+2021-06-11 11:08:49,480 - save_data_to_db - Data car with id 30018922 was successfully save in DB
+2021-06-11 11:08:50,358 - get_data_all_cars - Parse data car with id:29722342
+2021-06-11 11:08:50,358 - get_data_all_cars - Try to save data car with id 29722342
+2021-06-11 11:08:50,372 - save_data_to_db - Data car with id 29722342 was successfully save in DB
+2021-06-11 11:08:50,565 - get_data_all_cars - Parse data car with id:30189321
+2021-06-11 11:08:50,565 - get_data_all_cars - Try to save data car with id 30189321
+2021-06-11 11:08:50,565 - save_data_to_db - Car with id 30189321 was successfully update
+2021-06-11 11:08:50,779 - get_data_all_cars - Parse data car with id:30118769
+2021-06-11 11:08:50,779 - get_data_all_cars - Try to save data car with id 30118769
+2021-06-11 11:08:50,781 - save_data_to_db - Car with id 30118769 was successfully update
+2021-06-11 11:08:51,101 - get_data_all_cars - Parse data car with id:30118692
+2021-06-11 11:08:51,101 - get_data_all_cars - Try to save data car with id 30118692
+2021-06-11 11:08:51,103 - save_data_to_db - Car with id 30118692 was successfully update
+2021-06-11 11:08:51,343 - get_data_all_cars - Parse data car with id:30170286
+2021-06-11 11:08:51,343 - get_data_all_cars - Try to save data car with id 30170286
+2021-06-11 11:08:51,347 - save_data_to_db - Car with id 30170286 was successfully update
+2021-06-11 11:08:51,682 - get_data_all_cars - Parse data car with id:30081238
+2021-06-11 11:08:51,682 - get_data_all_cars - Try to save data car with id 30081238
+2021-06-11 11:08:51,683 - save_data_to_db - Car with id 30081238 was successfully update
+2021-06-11 11:08:53,019 - get_data_all_cars - Parse data car with id:30073552
+2021-06-11 11:08:53,020 - get_data_all_cars - Try to save data car with id 30073552
+2021-06-11 11:08:53,023 - save_data_to_db - Car with id 30073552 was successfully update
+2021-06-11 11:08:53,440 - get_data_all_cars - Parse data car with id:29739436
+2021-06-11 11:08:53,440 - get_data_all_cars - Try to save data car with id 29739436
+2021-06-11 11:08:53,442 - save_data_to_db - Car with id 29739436 was successfully update
+2021-06-11 11:08:56,938 - get_data_all_cars - Parse data car with id:29926782
+2021-06-11 11:08:56,938 - get_data_all_cars - Try to save data car with id 29926782
+2021-06-11 11:08:56,942 - save_data_to_db - Car with id 29926782 was successfully update
+2021-06-11 11:09:25,145 - <module> - Logger was created. Script was started
+2021-06-11 11:09:25,211 - get_ids_and_pages - Send get request to url...
+2021-06-11 11:09:31,468 - get_ids_and_pages - Parse ids on page 1/5...
+2021-06-11 11:09:32,762 - get_ids_and_pages - Parse ids on page 2/5...
+2021-06-11 11:09:34,020 - get_ids_and_pages - Parse ids on page 3/5...
+2021-06-11 11:09:35,569 - get_ids_and_pages - Parse ids on page 4/5...
+2021-06-11 11:09:37,624 - get_ids_and_pages - Parse ids on page 5/5...
+2021-06-11 11:09:38,905 - get_data_all_cars - Try to get data all cars
+2021-06-11 11:09:39,382 - get_data_all_cars - Parse data car with id:30189321
+2021-06-11 11:09:39,383 - get_data_all_cars - Try to save data car with id 30189321
+2021-06-11 11:09:39,392 - save_data_to_db - Car with id 30189321 was successfully update
+2021-06-11 11:09:39,960 - get_data_all_cars - Parse data car with id:30118769
+2021-06-11 11:09:39,961 - get_data_all_cars - Try to save data car with id 30118769
+2021-06-11 11:09:39,967 - save_data_to_db - Car with id 30118769 was successfully update
+2021-06-11 11:09:41,894 - get_data_all_cars - Parse data car with id:30118692
+2021-06-11 11:09:41,895 - get_data_all_cars - Try to save data car with id 30118692
+2021-06-11 11:09:41,900 - save_data_to_db - Car with id 30118692 was successfully update
+2021-06-11 11:09:43,981 - get_data_all_cars - Parse data car with id:30170286
+2021-06-11 11:09:43,981 - get_data_all_cars - Try to save data car with id 30170286
+2021-06-11 11:09:43,986 - save_data_to_db - Car with id 30170286 was successfully update
+2021-06-11 11:09:44,591 - get_data_all_cars - Parse data car with id:30081238
+2021-06-11 11:09:44,591 - get_data_all_cars - Try to save data car with id 30081238
+2021-06-11 11:09:44,592 - save_data_to_db - Car with id 30081238 was successfully update
+2021-06-11 11:09:45,128 - get_data_all_cars - Parse data car with id:30073552
+2021-06-11 11:09:45,129 - get_data_all_cars - Try to save data car with id 30073552
+2021-06-11 11:09:45,133 - save_data_to_db - Car with id 30073552 was successfully update
+2021-06-11 11:09:45,406 - get_data_all_cars - Parse data car with id:29739436
+2021-06-11 11:09:45,406 - get_data_all_cars - Try to save data car with id 29739436
+2021-06-11 11:09:45,411 - save_data_to_db - Car with id 29739436 was successfully update
+2021-06-11 11:09:45,660 - get_data_all_cars - Parse data car with id:29926782
+2021-06-11 11:09:45,660 - get_data_all_cars - Try to save data car with id 29926782
+2021-06-11 11:09:45,664 - save_data_to_db - Car with id 29926782 was successfully update
+2021-06-11 11:09:45,878 - get_data_all_cars - Parse data car with id:29623799
+2021-06-11 11:09:45,878 - get_data_all_cars - Try to save data car with id 29623799
+2021-06-11 11:09:45,879 - save_data_to_db - Car with id 29623799 was successfully update
+2021-06-11 11:09:46,183 - get_data_all_cars - Parse data car with id:30211913
+2021-06-11 11:09:46,184 - get_data_all_cars - Try to save data car with id 30211913
+2021-06-11 11:09:46,188 - save_data_to_db - Car with id 30211913 was successfully update
+2021-06-11 11:09:46,828 - get_data_all_cars - Parse data car with id:27869643
+2021-06-11 11:09:46,828 - get_data_all_cars - Try to save data car with id 27869643
+2021-06-11 11:09:46,832 - save_data_to_db - Car with id 27869643 was successfully update
+2021-06-11 11:09:47,491 - get_data_all_cars - Parse data car with id:29056804
+2021-06-11 11:09:47,492 - get_data_all_cars - Try to save data car with id 29056804
+2021-06-11 11:09:47,496 - save_data_to_db - Car with id 29056804 was successfully update
+2021-06-11 11:09:50,417 - get_data_all_cars - Parse data car with id:30142977
+2021-06-11 11:09:50,418 - get_data_all_cars - Try to save data car with id 30142977
+2021-06-11 11:09:50,419 - save_data_to_db - Car with id 30142977 was successfully update
+2021-06-11 11:09:50,750 - get_data_all_cars - Parse data car with id:30142689
+2021-06-11 11:09:50,750 - get_data_all_cars - Try to save data car with id 30142689
+2021-06-11 11:09:50,751 - save_data_to_db - Car with id 30142689 was successfully update
+2021-06-11 11:09:51,319 - get_data_all_cars - Parse data car with id:30141474
+2021-06-11 11:09:51,319 - get_data_all_cars - Try to save data car with id 30141474
+2021-06-11 11:09:51,322 - save_data_to_db - Car with id 30141474 was successfully update
+2021-06-11 11:09:51,723 - get_data_all_cars - Parse data car with id:29969841
+2021-06-11 11:09:51,724 - get_data_all_cars - Try to save data car with id 29969841
+2021-06-11 11:09:51,729 - save_data_to_db - Car with id 29969841 was successfully update
+2021-06-11 11:09:52,330 - get_data_all_cars - Parse data car with id:30108064
+2021-06-11 11:09:52,330 - get_data_all_cars - Try to save data car with id 30108064
+2021-06-11 11:09:52,334 - save_data_to_db - Car with id 30108064 was successfully update
+2021-06-11 11:09:52,983 - get_data_all_cars - Parse data car with id:30091710
+2021-06-11 11:09:52,984 - get_data_all_cars - Try to save data car with id 30091710
+2021-06-11 11:09:52,987 - save_data_to_db - Car with id 30091710 was successfully update
+2021-06-11 11:09:53,892 - get_data_all_cars - Parse data car with id:30018922
+2021-06-11 11:09:53,892 - get_data_all_cars - Try to save data car with id 30018922
+2021-06-11 11:09:53,894 - save_data_to_db - Car with id 30018922 was successfully update
+2021-06-11 11:09:54,519 - get_data_all_cars - Parse data car with id:29722342
+2021-06-11 11:09:54,519 - get_data_all_cars - Try to save data car with id 29722342
+2021-06-11 11:09:54,520 - save_data_to_db - Car with id 29722342 was successfully update
+2021-06-11 11:09:54,879 - get_data_all_cars - Parse data car with id:30189321
+2021-06-11 11:09:54,879 - get_data_all_cars - Try to save data car with id 30189321
+2021-06-11 11:09:54,881 - save_data_to_db - Car with id 30189321 was successfully update
+2021-06-11 11:09:55,173 - get_data_all_cars - Parse data car with id:30118769
+2021-06-11 11:09:55,173 - get_data_all_cars - Try to save data car with id 30118769
+2021-06-11 11:09:55,177 - save_data_to_db - Car with id 30118769 was successfully update
+2021-06-11 11:09:55,530 - get_data_all_cars - Parse data car with id:30118692
+2021-06-11 11:09:55,531 - get_data_all_cars - Try to save data car with id 30118692
+2021-06-11 11:09:55,535 - save_data_to_db - Car with id 30118692 was successfully update
+2021-06-11 11:09:56,312 - get_data_all_cars - Parse data car with id:30170286
+2021-06-11 11:09:56,312 - get_data_all_cars - Try to save data car with id 30170286
+2021-06-11 11:09:56,316 - save_data_to_db - Car with id 30170286 was successfully update
+2021-06-11 11:09:57,132 - get_data_all_cars - Parse data car with id:30081238
+2021-06-11 11:09:57,132 - get_data_all_cars - Try to save data car with id 30081238
+2021-06-11 11:09:57,136 - save_data_to_db - Car with id 30081238 was successfully update
+2021-06-11 11:09:57,493 - get_data_all_cars - Parse data car with id:30073552
+2021-06-11 11:09:57,493 - get_data_all_cars - Try to save data car with id 30073552
+2021-06-11 11:09:57,495 - save_data_to_db - Car with id 30073552 was successfully update
+2021-06-11 11:09:58,434 - get_data_all_cars - Parse data car with id:29739436
+2021-06-11 11:09:58,434 - get_data_all_cars - Try to save data car with id 29739436
+2021-06-11 11:09:58,436 - save_data_to_db - Car with id 29739436 was successfully update
+2021-06-11 11:10:00,420 - get_data_all_cars - Parse data car with id:29926782
+2021-06-11 11:10:00,420 - get_data_all_cars - Try to save data car with id 29926782
+2021-06-11 11:10:00,424 - save_data_to_db - Car with id 29926782 was successfully update
+2021-06-11 11:10:01,334 - get_data_all_cars - Parse data car with id:29623799
+2021-06-11 11:10:01,334 - get_data_all_cars - Try to save data car with id 29623799
+2021-06-11 11:10:01,337 - save_data_to_db - Car with id 29623799 was successfully update
+2021-06-11 11:10:01,803 - get_data_all_cars - Parse data car with id:30211913
+2021-06-11 11:10:01,803 - get_data_all_cars - Try to save data car with id 30211913
+2021-06-11 11:10:01,806 - save_data_to_db - Car with id 30211913 was successfully update
+2021-06-11 11:10:02,295 - get_data_all_cars - Parse data car with id:27869643
+2021-06-11 11:10:02,295 - get_data_all_cars - Try to save data car with id 27869643
+2021-06-11 11:10:02,299 - save_data_to_db - Car with id 27869643 was successfully update
+2021-06-11 11:10:03,088 - get_data_all_cars - Parse data car with id:29056804
+2021-06-11 11:10:03,089 - get_data_all_cars - Try to save data car with id 29056804
+2021-06-11 11:10:03,092 - save_data_to_db - Car with id 29056804 was successfully update
+2021-06-11 11:10:03,949 - get_data_all_cars - Parse data car with id:30142977
+2021-06-11 11:10:03,949 - get_data_all_cars - Try to save data car with id 30142977
+2021-06-11 11:10:03,951 - save_data_to_db - Car with id 30142977 was successfully update
+2021-06-11 11:10:05,255 - get_data_all_cars - Parse data car with id:30142689
+2021-06-11 11:10:05,255 - get_data_all_cars - Try to save data car with id 30142689
+2021-06-11 11:10:05,258 - save_data_to_db - Car with id 30142689 was successfully update
+2021-06-11 11:10:05,959 - get_data_all_cars - Parse data car with id:30141474
+2021-06-11 11:10:05,959 - get_data_all_cars - Try to save data car with id 30141474
+2021-06-11 11:10:05,963 - save_data_to_db - Car with id 30141474 was successfully update
+2021-06-11 11:10:06,598 - get_data_all_cars - Parse data car with id:29969841
+2021-06-11 11:10:06,598 - get_data_all_cars - Try to save data car with id 29969841
+2021-06-11 11:10:06,601 - save_data_to_db - Car with id 29969841 was successfully update
+2021-06-11 11:10:07,387 - get_data_all_cars - Parse data car with id:30108064
+2021-06-11 11:10:07,387 - get_data_all_cars - Try to save data car with id 30108064
+2021-06-11 11:10:07,389 - save_data_to_db - Car with id 30108064 was successfully update
+2021-06-11 11:10:08,065 - get_data_all_cars - Parse data car with id:30091710
+2021-06-11 11:10:08,065 - get_data_all_cars - Try to save data car with id 30091710
+2021-06-11 11:10:08,069 - save_data_to_db - Car with id 30091710 was successfully update
+2021-06-11 11:10:09,221 - get_data_all_cars - Parse data car with id:30018922
+2021-06-11 11:10:09,221 - get_data_all_cars - Try to save data car with id 30018922
+2021-06-11 11:10:09,223 - save_data_to_db - Car with id 30018922 was successfully update
+2021-06-11 11:10:09,846 - get_data_all_cars - Parse data car with id:29722342
+2021-06-11 11:10:09,847 - get_data_all_cars - Try to save data car with id 29722342
+2021-06-11 11:10:09,849 - save_data_to_db - Car with id 29722342 was successfully update
+2021-06-11 11:10:10,537 - get_data_all_cars - Parse data car with id:29959106
+2021-06-11 11:10:10,538 - get_data_all_cars - Try to save data car with id 29959106
+2021-06-11 11:10:10,557 - save_data_to_db - Data car with id 29959106 was successfully save in DB
+2021-06-11 11:10:10,969 - get_data_all_cars - Parse data car with id:29091839
+2021-06-11 11:10:10,969 - get_data_all_cars - Try to save data car with id 29091839
+2021-06-11 11:10:10,979 - save_data_to_db - Car with id 29091839 was successfully update
+2021-06-11 11:10:11,748 - get_data_all_cars - Parse data car with id:29318297
+2021-06-11 11:10:11,748 - get_data_all_cars - Try to save data car with id 29318297
+2021-06-11 11:10:11,768 - save_data_to_db - Data car with id 29318297 was successfully save in DB
+2021-06-11 11:10:12,311 - get_data_all_cars - Parse data car with id:30109266
+2021-06-11 11:10:12,311 - get_data_all_cars - Try to save data car with id 30109266
+2021-06-11 11:10:12,338 - save_data_to_db - Data car with id 30109266 was successfully save in DB
+2021-06-11 11:10:12,651 - get_data_all_cars - Parse data car with id:30204787
+2021-06-11 11:10:12,651 - get_data_all_cars - Try to save data car with id 30204787
+2021-06-11 11:10:12,668 - save_data_to_db - Data car with id 30204787 was successfully save in DB
+2021-06-11 11:10:12,969 - get_data_all_cars - Parse data car with id:30203031
+2021-06-11 11:10:12,969 - get_data_all_cars - Try to save data car with id 30203031
+2021-06-11 11:10:13,005 - save_data_to_db - Data car with id 30203031 was successfully save in DB
+2021-06-11 11:10:13,982 - get_data_all_cars - Parse data car with id:30198266
+2021-06-11 11:10:13,982 - get_data_all_cars - Try to save data car with id 30198266
+2021-06-11 11:10:14,001 - save_data_to_db - Data car with id 30198266 was successfully save in DB
+2021-06-11 11:10:17,010 - get_data_all_cars - Parse data car with id:30194817
+2021-06-11 11:10:17,010 - get_data_all_cars - Try to save data car with id 30194817
+2021-06-11 11:10:17,027 - save_data_to_db - Data car with id 30194817 was successfully save in DB
+2021-06-11 11:10:17,465 - get_data_all_cars - Parse data car with id:29789417
+2021-06-11 11:10:17,465 - get_data_all_cars - Try to save data car with id 29789417
+2021-06-11 11:10:17,487 - save_data_to_db - Data car with id 29789417 was successfully save in DB
+2021-06-11 11:10:18,140 - get_data_all_cars - Parse data car with id:30186006
+2021-06-11 11:10:18,140 - get_data_all_cars - Try to save data car with id 30186006
+2021-06-11 11:10:18,160 - save_data_to_db - Data car with id 30186006 was successfully save in DB
+2021-06-11 11:10:18,618 - get_data_all_cars - Parse data car with id:30183864
+2021-06-11 11:10:18,618 - get_data_all_cars - Try to save data car with id 30183864
+2021-06-11 11:10:18,635 - save_data_to_db - Data car with id 30183864 was successfully save in DB
+2021-06-11 11:10:20,070 - get_data_all_cars - Parse data car with id:30180928
+2021-06-11 11:10:20,070 - get_data_all_cars - Try to save data car with id 30180928
+2021-06-11 11:10:20,082 - save_data_to_db - Car with id 30180928 was successfully update
+2021-06-11 11:10:20,577 - get_data_all_cars - Parse data car with id:30175629
+2021-06-11 11:10:20,577 - get_data_all_cars - Try to save data car with id 30175629
+2021-06-11 11:10:20,586 - save_data_to_db - Car with id 30175629 was successfully update
+2021-06-11 11:10:21,597 - get_data_all_cars - Parse data car with id:30045733
+2021-06-11 11:10:21,597 - get_data_all_cars - Try to save data car with id 30045733
+2021-06-11 11:10:21,620 - save_data_to_db - Data car with id 30045733 was successfully save in DB
+2021-06-11 11:10:22,725 - get_data_all_cars - Parse data car with id:30148958
+2021-06-11 11:10:22,725 - get_data_all_cars - Try to save data car with id 30148958
+2021-06-11 11:10:22,730 - save_data_to_db - Car with id 30148958 was successfully update
+2021-06-11 11:10:24,228 - get_data_all_cars - Parse data car with id:29299821
+2021-06-11 11:10:24,228 - get_data_all_cars - Try to save data car with id 29299821
+2021-06-11 11:10:24,255 - save_data_to_db - Car with id 29299821 was successfully update
+2021-06-11 11:10:24,844 - get_data_all_cars - Parse data car with id:30116322
+2021-06-11 11:10:24,844 - get_data_all_cars - Try to save data car with id 30116322
+2021-06-11 11:10:24,853 - save_data_to_db - Data car with id 30116322 was successfully save in DB
+2021-06-11 11:10:25,252 - get_data_all_cars - Parse data car with id:30061534
+2021-06-11 11:10:25,252 - get_data_all_cars - Try to save data car with id 30061534
+2021-06-11 11:10:25,256 - save_data_to_db - Car with id 30061534 was successfully update
+2021-06-11 11:10:25,656 - get_data_all_cars - Parse data car with id:29731954
+2021-06-11 11:10:25,656 - get_data_all_cars - Try to save data car with id 29731954
+2021-06-11 11:10:25,677 - save_data_to_db - Data car with id 29731954 was successfully save in DB
+2021-06-11 11:10:26,479 - get_data_all_cars - Parse data car with id:29726431
+2021-06-11 11:10:26,479 - get_data_all_cars - Try to save data car with id 29726431
+2021-06-11 11:10:26,484 - save_data_to_db - Car with id 29726431 was successfully update
+2021-06-11 11:10:27,208 - get_data_all_cars - Parse data car with id:30195922
+2021-06-11 11:10:27,208 - get_data_all_cars - Try to save data car with id 30195922
+2021-06-11 11:10:27,218 - save_data_to_db - Data car with id 30195922 was successfully save in DB
+2021-06-11 11:10:27,745 - get_data_all_cars - Parse data car with id:29356915
+2021-06-11 11:10:27,745 - get_data_all_cars - Try to save data car with id 29356915
+2021-06-11 11:10:27,763 - save_data_to_db - Data car with id 29356915 was successfully save in DB
+2021-06-11 11:10:29,353 - get_data_all_cars - Parse data car with id:27478154
+2021-06-11 11:10:29,354 - get_data_all_cars - Try to save data car with id 27478154
+2021-06-11 11:10:29,364 - save_data_to_db - Data car with id 27478154 was successfully save in DB
+2021-06-11 11:10:30,586 - get_data_all_cars - Parse data car with id:30193886
+2021-06-11 11:10:30,586 - get_data_all_cars - Try to save data car with id 30193886
+2021-06-11 11:10:30,603 - save_data_to_db - Data car with id 30193886 was successfully save in DB
+2021-06-11 11:10:31,479 - get_data_all_cars - Parse data car with id:30190861
+2021-06-11 11:10:31,480 - get_data_all_cars - Try to save data car with id 30190861
+2021-06-11 11:10:31,500 - save_data_to_db - Data car with id 30190861 was successfully save in DB
+2021-06-11 11:10:31,818 - get_data_all_cars - Parse data car with id:30090645
+2021-06-11 11:10:31,818 - get_data_all_cars - Try to save data car with id 30090645
+2021-06-11 11:10:31,840 - save_data_to_db - Car with id 30090645 was successfully update
+2021-06-11 11:10:32,130 - get_data_all_cars - Parse data car with id:30190063
+2021-06-11 11:10:32,130 - get_data_all_cars - Try to save data car with id 30190063
+2021-06-11 11:10:32,149 - save_data_to_db - Data car with id 30190063 was successfully save in DB
+2021-06-11 11:10:32,432 - get_data_all_cars - Parse data car with id:29995573
+2021-06-11 11:10:32,432 - get_data_all_cars - Try to save data car with id 29995573
+2021-06-11 11:10:32,451 - save_data_to_db - Data car with id 29995573 was successfully save in DB
+2021-06-11 11:10:32,914 - get_data_all_cars - Parse data car with id:29798486
+2021-06-11 11:10:32,914 - get_data_all_cars - Try to save data car with id 29798486
+2021-06-11 11:10:32,933 - save_data_to_db - Data car with id 29798486 was successfully save in DB
+2021-06-11 11:10:33,312 - get_data_all_cars - Parse data car with id:30186076
+2021-06-11 11:10:33,312 - get_data_all_cars - Try to save data car with id 30186076
+2021-06-11 11:10:33,342 - save_data_to_db - Data car with id 30186076 was successfully save in DB
+2021-06-11 11:10:33,980 - get_data_all_cars - Parse data car with id:30184198
+2021-06-11 11:10:33,981 - get_data_all_cars - Try to save data car with id 30184198
+2021-06-11 11:10:34,008 - save_data_to_db - Data car with id 30184198 was successfully save in DB
+2021-06-11 11:10:34,815 - get_data_all_cars - Parse data car with id:29410942
+2021-06-11 11:10:34,815 - get_data_all_cars - Try to save data car with id 29410942
+2021-06-11 11:10:34,824 - save_data_to_db - Data car with id 29410942 was successfully save in DB
+2021-06-11 11:10:35,127 - get_data_all_cars - Parse data car with id:30130722
+2021-06-11 11:10:35,127 - get_data_all_cars - Try to save data car with id 30130722
+2021-06-11 11:10:35,144 - save_data_to_db - Data car with id 30130722 was successfully save in DB
+2021-06-11 11:10:36,310 - get_data_all_cars - Parse data car with id:30181423
+2021-06-11 11:10:36,310 - get_data_all_cars - Try to save data car with id 30181423
+2021-06-11 11:10:36,328 - save_data_to_db - Car with id 30181423 was successfully update
+2021-06-11 11:10:37,086 - get_data_all_cars - Parse data car with id:29064410
+2021-06-11 11:10:37,086 - get_data_all_cars - Try to save data car with id 29064410
+2021-06-11 11:10:37,109 - save_data_to_db - Data car with id 29064410 was successfully save in DB
+2021-06-11 11:10:37,529 - get_data_all_cars - Parse data car with id:29498233
+2021-06-11 11:10:37,530 - get_data_all_cars - Try to save data car with id 29498233
+2021-06-11 11:10:37,534 - save_data_to_db - Car with id 29498233 was successfully update
+2021-06-11 11:10:37,798 - get_data_all_cars - Parse data car with id:29220880
+2021-06-11 11:10:37,798 - get_data_all_cars - Try to save data car with id 29220880
+2021-06-11 11:10:37,802 - save_data_to_db - Car with id 29220880 was successfully update
+2021-06-11 11:10:38,449 - get_data_all_cars - Parse data car with id:29664716
+2021-06-11 11:10:38,449 - get_data_all_cars - Try to save data car with id 29664716
+2021-06-11 11:10:38,453 - save_data_to_db - Car with id 29664716 was successfully update
+2021-06-11 11:10:39,197 - get_data_all_cars - Parse data car with id:29844928
+2021-06-11 11:10:39,197 - get_data_all_cars - Try to save data car with id 29844928
+2021-06-11 11:10:39,201 - save_data_to_db - Car with id 29844928 was successfully update
+2021-06-11 11:10:39,565 - get_data_all_cars - Parse data car with id:29931422
+2021-06-11 11:10:39,565 - get_data_all_cars - Try to save data car with id 29931422
+2021-06-11 11:10:39,573 - save_data_to_db - Data car with id 29931422 was successfully save in DB
+2021-06-11 11:10:40,084 - get_data_all_cars - Parse data car with id:30175524
+2021-06-11 11:10:40,085 - get_data_all_cars - Try to save data car with id 30175524
+2021-06-11 11:10:40,117 - save_data_to_db - Data car with id 30175524 was successfully save in DB
+2021-06-11 11:10:40,710 - get_data_all_cars - Parse data car with id:29140824
+2021-06-11 11:10:40,710 - get_data_all_cars - Try to save data car with id 29140824
+2021-06-11 11:10:40,725 - save_data_to_db - Data car with id 29140824 was successfully save in DB
+2021-06-11 11:10:41,088 - get_data_all_cars - Parse data car with id:30173603
+2021-06-11 11:10:41,089 - get_data_all_cars - Try to save data car with id 30173603
+2021-06-11 11:10:41,107 - save_data_to_db - Data car with id 30173603 was successfully save in DB
+2021-06-11 11:10:41,714 - get_data_all_cars - Parse data car with id:29826318
+2021-06-11 11:10:41,714 - get_data_all_cars - Try to save data car with id 29826318
+2021-06-11 11:10:41,734 - save_data_to_db - Data car with id 29826318 was successfully save in DB
+2021-06-11 11:10:42,030 - get_data_all_cars - Parse data car with id:30170907
+2021-06-11 11:10:42,030 - get_data_all_cars - Try to save data car with id 30170907
+2021-06-11 11:10:42,062 - save_data_to_db - Data car with id 30170907 was successfully save in DB
+2021-06-11 11:10:42,387 - get_data_all_cars - Parse data car with id:30170378
+2021-06-11 11:10:42,387 - get_data_all_cars - Try to save data car with id 30170378
+2021-06-11 11:10:42,396 - save_data_to_db - Data car with id 30170378 was successfully save in DB
+2021-06-11 11:10:42,965 - get_data_all_cars - Parse data car with id:29845391
+2021-06-11 11:10:42,966 - get_data_all_cars - Try to save data car with id 29845391
+2021-06-11 11:10:42,984 - save_data_to_db - Data car with id 29845391 was successfully save in DB
+2021-06-11 11:10:43,596 - get_data_all_cars - Parse data car with id:30166799
+2021-06-11 11:10:43,597 - get_data_all_cars - Try to save data car with id 30166799
+2021-06-11 11:10:43,614 - save_data_to_db - Data car with id 30166799 was successfully save in DB
+2021-06-11 11:10:43,841 - get_data_all_cars - Parse data car with id:29796799
+2021-06-11 11:10:43,841 - get_data_all_cars - Try to save data car with id 29796799
+2021-06-11 11:10:43,854 - save_data_to_db - Data car with id 29796799 was successfully save in DB
+2021-06-11 11:10:44,209 - get_data_all_cars - Parse data car with id:29818087
+2021-06-11 11:10:44,209 - get_data_all_cars - Try to save data car with id 29818087
+2021-06-11 11:10:44,223 - save_data_to_db - Data car with id 29818087 was successfully save in DB
+2021-06-11 11:10:44,544 - get_data_all_cars - Parse data car with id:29676340
+2021-06-11 11:10:44,544 - get_data_all_cars - Try to save data car with id 29676340
+2021-06-11 11:10:44,564 - save_data_to_db - Data car with id 29676340 was successfully save in DB
+2021-06-11 11:10:44,882 - get_data_all_cars - Parse data car with id:29982575
+2021-06-11 11:10:44,882 - get_data_all_cars - Try to save data car with id 29982575
+2021-06-11 11:10:44,892 - save_data_to_db - Data car with id 29982575 was successfully save in DB
+2021-06-11 11:10:45,320 - get_data_all_cars - Parse data car with id:29969183
+2021-06-11 11:10:45,320 - get_data_all_cars - Try to save data car with id 29969183
+2021-06-11 11:10:45,340 - save_data_to_db - Data car with id 29969183 was successfully save in DB
+2021-06-11 11:10:45,658 - get_data_all_cars - Parse data car with id:29067975
+2021-06-11 11:10:45,658 - get_data_all_cars - Try to save data car with id 29067975
+2021-06-11 11:10:45,686 - save_data_to_db - Data car with id 29067975 was successfully save in DB
+2021-06-11 11:10:45,982 - get_data_all_cars - Parse data car with id:29960364
+2021-06-11 11:10:45,983 - get_data_all_cars - Try to save data car with id 29960364
+2021-06-11 11:10:46,000 - save_data_to_db - Data car with id 29960364 was successfully save in DB
+2021-06-11 11:10:46,542 - get_data_all_cars - Parse data car with id:29950963
+2021-06-11 11:10:46,542 - get_data_all_cars - Try to save data car with id 29950963
+2021-06-11 11:10:46,564 - save_data_to_db - Data car with id 29950963 was successfully save in DB
+2021-06-11 11:10:46,861 - get_data_all_cars - Parse data car with id:29936178
+2021-06-11 11:10:46,861 - get_data_all_cars - Try to save data car with id 29936178
+2021-06-11 11:10:46,880 - save_data_to_db - Data car with id 29936178 was successfully save in DB
+2021-06-11 11:10:47,370 - get_data_all_cars - Parse data car with id:29286415
+2021-06-11 11:10:47,371 - get_data_all_cars - Try to save data car with id 29286415
+2021-06-11 11:10:47,393 - save_data_to_db - Data car with id 29286415 was successfully save in DB
+2021-06-11 11:10:48,998 - get_data_all_cars - Parse data car with id:28033846
+2021-06-11 11:10:48,999 - get_data_all_cars - Try to save data car with id 28033846
+2021-06-11 11:10:49,019 - save_data_to_db - Data car with id 28033846 was successfully save in DB
+2021-06-11 11:10:49,272 - get_data_all_cars - Parse data car with id:29906410
+2021-06-11 11:10:49,273 - get_data_all_cars - Try to save data car with id 29906410
+2021-06-11 11:10:49,291 - save_data_to_db - Data car with id 29906410 was successfully save in DB
+2021-06-11 11:10:50,349 - get_data_all_cars - Parse data car with id:29861056
+2021-06-11 11:10:50,349 - get_data_all_cars - Try to save data car with id 29861056
+2021-06-11 11:10:50,374 - save_data_to_db - Data car with id 29861056 was successfully save in DB
+2021-06-11 11:10:50,990 - get_data_all_cars - Parse data car with id:29454038
+2021-06-11 11:10:50,990 - get_data_all_cars - Try to save data car with id 29454038
+2021-06-11 11:10:51,015 - save_data_to_db - Data car with id 29454038 was successfully save in DB
+2021-06-11 11:10:51,557 - get_data_all_cars - Parse data car with id:29846518
+2021-06-11 11:10:51,557 - get_data_all_cars - Try to save data car with id 29846518
+2021-06-11 11:10:51,579 - save_data_to_db - Data car with id 29846518 was successfully save in DB
+2021-06-11 11:10:52,210 - get_data_all_cars - Parse data car with id:29748996
+2021-06-11 11:10:52,210 - get_data_all_cars - Try to save data car with id 29748996
+2021-06-11 11:10:52,226 - save_data_to_db - Data car with id 29748996 was successfully save in DB
+2021-06-11 11:10:52,520 - get_data_all_cars - Parse data car with id:30211855
+2021-06-11 11:10:52,520 - get_data_all_cars - Try to save data car with id 30211855
+2021-06-11 11:10:52,543 - save_data_to_db - Data car with id 30211855 was successfully save in DB
+2021-06-11 11:10:52,805 - get_data_all_cars - Parse data car with id:29754409
+2021-06-11 11:10:52,805 - get_data_all_cars - Try to save data car with id 29754409
+2021-06-11 11:10:52,822 - save_data_to_db - Data car with id 29754409 was successfully save in DB
+2021-06-11 11:10:53,378 - get_data_all_cars - Parse data car with id:30209589
+2021-06-11 11:10:53,378 - get_data_all_cars - Try to save data car with id 30209589
+2021-06-11 11:10:53,411 - save_data_to_db - Data car with id 30209589 was successfully save in DB
+2021-06-11 11:10:54,258 - get_data_all_cars - Parse data car with id:28768867
+2021-06-11 11:10:54,259 - get_data_all_cars - Try to save data car with id 28768867
+2021-06-11 11:10:54,291 - save_data_to_db - Data car with id 28768867 was successfully save in DB
+2021-06-11 11:10:54,569 - get_data_all_cars - Parse data car with id:30206245
+2021-06-11 11:10:54,570 - get_data_all_cars - Try to save data car with id 30206245
+2021-06-11 11:10:54,579 - save_data_to_db - Data car with id 30206245 was successfully save in DB
+2021-06-11 11:10:55,444 - get_data_all_cars - Parse data car with id:30204487
+2021-06-11 11:10:55,444 - get_data_all_cars - Try to save data car with id 30204487
+2021-06-11 11:10:55,478 - save_data_to_db - Data car with id 30204487 was successfully save in DB
+2021-06-11 11:10:56,084 - get_data_all_cars - Parse data car with id:30200943
+2021-06-11 11:10:56,084 - get_data_all_cars - Try to save data car with id 30200943
+2021-06-11 11:10:56,115 - save_data_to_db - Data car with id 30200943 was successfully save in DB
+2021-06-11 11:10:56,922 - get_data_all_cars - Parse data car with id:30202702
+2021-06-11 11:10:56,922 - get_data_all_cars - Try to save data car with id 30202702
+2021-06-11 11:10:56,944 - save_data_to_db - Data car with id 30202702 was successfully save in DB
+2021-06-11 11:10:59,239 - get_data_all_cars - Parse data car with id:30100999
+2021-06-11 11:10:59,240 - get_data_all_cars - Try to save data car with id 30100999
+2021-06-11 11:10:59,261 - save_data_to_db - Data car with id 30100999 was successfully save in DB
+2021-06-11 11:11:00,107 - get_data_all_cars - Parse data car with id:28924563
+2021-06-11 11:11:00,107 - get_data_all_cars - Try to save data car with id 28924563
+2021-06-11 11:11:00,125 - save_data_to_db - Data car with id 28924563 was successfully save in DB
+2021-06-11 11:11:00,881 - get_data_all_cars - Parse data car with id:27449327
+2021-06-11 11:11:00,881 - get_data_all_cars - Try to save data car with id 27449327
+2021-06-11 11:11:00,886 - save_data_to_db - Data car with id 27449327 was successfully save in DB
+2021-06-11 11:11:02,267 - get_data_all_cars - Parse data car with id:30198414
+2021-06-11 11:11:02,268 - get_data_all_cars - Try to save data car with id 30198414
+2021-06-11 11:11:02,296 - save_data_to_db - Data car with id 30198414 was successfully save in DB
+2021-06-11 11:11:02,570 - get_data_all_cars - Parse data car with id:30196283
+2021-06-11 11:11:02,571 - get_data_all_cars - Try to save data car with id 30196283
+2021-06-11 11:11:02,589 - save_data_to_db - Data car with id 30196283 was successfully save in DB
+2021-06-11 11:11:02,947 - get_data_all_cars - Parse data car with id:28776779
+2021-06-11 11:11:02,947 - get_data_all_cars - Try to save data car with id 28776779
+2021-06-11 11:11:02,956 - save_data_to_db - Data car with id 28776779 was successfully save in DB
+2021-06-11 11:11:03,214 - get_data_all_cars - Parse data car with id:30187918
+2021-06-11 11:11:03,214 - get_data_all_cars - Try to save data car with id 30187918
+2021-06-11 11:11:03,253 - save_data_to_db - Data car with id 30187918 was successfully save in DB
+2021-06-11 11:11:03,555 - get_data_all_cars - Parse data car with id:29486813
+2021-06-11 11:11:03,555 - get_data_all_cars - Try to save data car with id 29486813
+2021-06-11 11:11:03,572 - save_data_to_db - Data car with id 29486813 was successfully save in DB
+2021-06-11 11:11:05,008 - get_data_all_cars - Parse data car with id:30179156
+2021-06-11 11:11:05,008 - get_data_all_cars - Try to save data car with id 30179156
+2021-06-11 11:11:05,013 - save_data_to_db - Data car with id 30179156 was successfully save in DB
+2021-06-11 11:11:05,515 - get_data_all_cars - Parse data car with id:29544476
+2021-06-11 11:11:05,516 - get_data_all_cars - Try to save data car with id 29544476
+2021-06-11 11:11:05,547 - save_data_to_db - Data car with id 29544476 was successfully save in DB
+2021-06-11 11:11:05,960 - get_data_all_cars - Parse data car with id:30171438
+2021-06-11 11:11:05,960 - get_data_all_cars - Try to save data car with id 30171438
+2021-06-11 11:11:05,979 - save_data_to_db - Data car with id 30171438 was successfully save in DB
+2021-06-11 11:11:06,600 - get_data_all_cars - Parse data car with id:30166620
+2021-06-11 11:11:06,600 - get_data_all_cars - Try to save data car with id 30166620
+2021-06-11 11:11:06,621 - save_data_to_db - Data car with id 30166620 was successfully save in DB
+2021-06-11 11:11:06,983 - get_data_all_cars - Parse data car with id:30164228
+2021-06-11 11:11:06,983 - get_data_all_cars - Try to save data car with id 30164228
+2021-06-11 11:11:07,019 - save_data_to_db - Data car with id 30164228 was successfully save in DB
+2021-06-11 11:11:07,330 - get_data_all_cars - Parse data car with id:30160312
+2021-06-11 11:11:07,331 - get_data_all_cars - Try to save data car with id 30160312
+2021-06-11 11:11:07,362 - save_data_to_db - Data car with id 30160312 was successfully save in DB
+2021-06-11 11:11:08,400 - get_data_all_cars - Parse data car with id:30158509
+2021-06-11 11:11:08,400 - get_data_all_cars - Try to save data car with id 30158509
+2021-06-11 11:11:08,432 - save_data_to_db - Data car with id 30158509 was successfully save in DB
+2021-06-11 11:11:09,564 - get_data_all_cars - Parse data car with id:29832530
+2021-06-11 11:11:09,564 - get_data_all_cars - Try to save data car with id 29832530
+2021-06-11 11:11:09,575 - save_data_to_db - Data car with id 29832530 was successfully save in DB
+2021-06-11 11:11:09,899 - get_data_all_cars - Parse data car with id:30148446
+2021-06-11 11:11:09,899 - get_data_all_cars - Try to save data car with id 30148446
+2021-06-11 11:11:09,908 - save_data_to_db - Data car with id 30148446 was successfully save in DB
+2021-06-11 11:11:10,398 - get_data_all_cars - Parse data car with id:30147633
+2021-06-11 11:11:10,398 - get_data_all_cars - Try to save data car with id 30147633
+2021-06-11 11:11:10,416 - save_data_to_db - Data car with id 30147633 was successfully save in DB
