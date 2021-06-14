@@ -6,7 +6,7 @@
 
 <script>
 
-// import MainComponent from "./components/MainComponent";
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 export default {
   name: 'App',
@@ -17,5 +17,7 @@ export default {
 </script>
 
 <style>
-
+  body {
+    background-image: url("http://bgfons.com/upload/ornaments_texture1154.jpg");
+  }
 </style>

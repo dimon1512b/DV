@@ -1,25 +1,38 @@
-<template>
-  <div class="base">
-    <sidebar
-        @getDataFilters="getDataFilters"
-        @HomePage="getDataFilters"
-        :all_data_types = "all_data_types"
-        :carData="carData"
-    ></sidebar>
-    <SearchComponent
-        @def_search_request='pull_def_search_request'>
-    </SearchComponent>
-    <card
-        v-for="car in cars"
-        :key="car.id"
-        :car="car"
-        @pushId="pullId"
-    ></card>
-    <pagination
-          :count_pages="count_pages"
-          :current_page="current_page"
-          @change_page="change_page"
-    ></pagination>
+<template class="container">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <NavBarComponent
+            @def_search_request='pull_def_search_request'>
+        </NavBarComponent>
+      </div>
+      <div class="col-3 position-fixed">
+        <sidebar
+            @getDataFilters="getDataFilters"
+            @HomePage="getDataFilters"
+            :all_data_types="all_data_types"
+            :carData="carData"
+        ></sidebar>
+      </div>
+      <div class="col">
+        <card
+            v-for="car in cars"
+            :key="car.id"
+            :car="car"
+            @pushId="pullId"
+        ></card>
+      </div>
+
+    </div>
+    <div class="row">
+      <div class="col">
+        <pagination
+            :count_pages="count_pages"
+            :current_page="current_page"
+            @change_page="change_page"
+        ></pagination>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -28,15 +41,16 @@
 import sidebar from "./SideBarComponent";
 import card from './CardComponent'
 import pagination from './PaginationComponent'
-import SearchComponent from "./SearchComponent";
+import NavBarComponent from "./NavBarComponent";
 import axios from "axios";
+
 export default {
   name: "MainComponent",
   components: {
     sidebar,
     card,
     pagination,
-    SearchComponent
+    NavBarComponent
   },
   data() {
     return {
@@ -69,21 +83,21 @@ export default {
     },
     getCardsData(params) { // good
       axios.get("http://127.0.0.1:8000/api/ajax_get_cars/", {params: params})
-        //console.log(`filters = ${Object.entries(this.filters)}`)
-        .then((response) => { // good
-          this.cars = response.data.auto // good
-          this.all_data_types = response.data.all_data_types // good
-          this.count_pages = response.data.pages // good
-          this.current_page = response.data.current_page // good
-          console.log('!!!!!!count_pages ПОЛУЧЕН!!!!!!!!!', this.count_pages) // good
-          console.log('!!!!!!current_page ПОЛУЧЕН!!!!!!!!!', this.current_page) // good
-          // this.pushAllDataTypes()
+          //console.log(`filters = ${Object.entries(this.filters)}`)
+          .then((response) => { // good
+            this.cars = response.data.auto // good
+            this.all_data_types = response.data.all_data_types // good
+            this.count_pages = response.data.pages // good
+            this.current_page = response.data.current_page // good
+            console.log('!!!!!!count_pages ПОЛУЧЕН!!!!!!!!!', this.count_pages) // good
+            console.log('!!!!!!current_page ПОЛУЧЕН!!!!!!!!!', this.current_page) // good
+            // this.pushAllDataTypes()
 
-        })
-        .catch((error) => { // good
-          console.log(error)
+          })
+          .catch((error) => { // good
+            console.log(error)
 
-      })
+          })
     }
   },
   mounted() { // good
@@ -100,10 +114,5 @@ export default {
 </script>
 
 <style>
-body {
-  background-color: #151515;
-}
-</style>
-<style scoped>
 
 </style>

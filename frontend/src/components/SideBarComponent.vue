@@ -1,12 +1,10 @@
 <template>
-  <div>
+  <div class="col">
     <aside>
       <img :src="require('../../build/static/vue/img/nissan_skyline.svg')" alt="nissan_skyline.svg">
       <div class="filter">
         <h3>Фільтрація</h3>
-        <a class="home_button" href="#">
-          <button @click="HomePage">Головна сторінка</button>
-        </a>
+        <button class="btn" @click="HomePage">Головна сторінка</button>
         <form>
           <ul>
             <li>
@@ -36,11 +34,10 @@
                         :value="model">{{model}}</option>
               </select>
             </li>
-            <input @click="getDataFilters()" type="button" value="Показати" class="show">
           </ul>
         </form>
+        <button @click="getDataFilters()" type="button" class="btn">Показати</button>
       </div>
-
     </aside>
   </div>
 </template>
@@ -97,62 +94,44 @@ export default {
 
 <style scoped>
 aside {
-  background: #ffffff;
-  height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 18%; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
-  left: 0;
+  background: rgba(200,200,224,0.2);
+  border-radius: 10px;
+  height: 100vh; /* Full-height: remove this if you want "auto" height */
+  display: block;
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
   padding: 1%;
-  color: #151515;
+  color: white;
+  border-right: #0B0B0B solid;
 }
 
 aside img {
-  width: 205px;
+  width: 75%;
   position: relative;
-  top: -10px;
-  left: 23px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.filter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-aside h3 {
-  position: relative;
-  top: -15px;
-  left: 20px;
-  font-size: 44px;
+.btn, option {
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 100%;
+}
+h3 {
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn {
+  color: white;
 }
 
-button {
-  margin-left: 40px;
-  background: red;
-  color: #fff;
-  width: 186px;
-}
-
-.show {
-  position: relative;
-  top: 15px;
-  background: red;
-  color: #fff;
-  width: 186px;
-
-  /*right: 25px;*/
-}
-
-
-select {
-  width: 186px;
-}
-
-
-.filter li {
+ul li {
   list-style-type: none;
 }
 
-.filter {
-  position: relative;
-  right: 10px;
-}
 </style>

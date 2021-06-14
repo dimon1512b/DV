@@ -87,7 +87,8 @@ export default {
 
 <style scoped>
   .card {
-      background: #0B0B0B;
+      background: rgba(200,200,224,0.2);
+      border-radius: 30px;
       float: right;
       margin-top: 50px;
       margin-right: 235px;
